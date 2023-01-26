@@ -1,8 +1,12 @@
 const getData = (req, res) => {
+    req.session.reload(() => validarSession())
+   function validarSession()  {
     let headerObj = {isLogged:false}
-        if (req.session.user !== undefined) {
-            headerObj = {isLogged:true, name:req.session.user.nombre}
+    console.log(req.session, req.passport, 'text')
+        if (req.session.passport.user !== undefined) {
+            headerObj = {isLogged:true, name:' '}
         } else headerObj = {isLogged:false}
         res.render('chat', headerObj)
-  }
+    }
+}
 module.exports = getData

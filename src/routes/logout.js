@@ -1,8 +1,6 @@
 const router = require('express').Router()
 router.get('/', (req, res) => {
-    req.session.destroy()
-    res.clearCookie('connect.sid')
-     res.render('login')
+req.logout(() => res.redirect('/login'))
 })
 
 module.exports = router

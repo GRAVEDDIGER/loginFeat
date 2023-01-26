@@ -37,6 +37,6 @@ const userSchema = new Schema({
         avatar:{type:String, required:true}
 
 })
-const userCollection = mongoose.model('userCollection', userSchema)
+const userCollection = mongoose.model('chatUsers', userSchema)
 const userModel = mongoose.model('messageCollection', messageSchema)
 module.exports = {userModel, userCollection}
