@@ -2,7 +2,6 @@
 const socket = io()
 const messageForm = document.getElementById('messageForm')
 const chatBox = document.getElementById('chatBox')
-let currentUser
 socket.emit('userRequest')
 socket.once('userResponse', (data) => {
   currentUser = data
@@ -17,10 +16,8 @@ parsedMessage = JSON.parse(messageFromServer)
 }    else {
       parsedMessage.push(JSON.parse(messageFromServer))
     }
-
     parsedMessage.forEach(async (innerMessage) => {
       const { author, text } = innerMessage
-
       chatBox.innerHTML += `<div class="msgContainer ${
         author.id === currentUser.author.id ? 'derecha' : null
       }">
@@ -40,10 +37,10 @@ let currentMessage
 messageForm.addEventListener('submit', (e) => {
   e.preventDefault()
   currentMessage = document.getElementById('messageBox').value
-  console.log(currentUser)
-  if (currentMessage !== undefined) {
+  if (currentMessage.trim().length !== 0) {
+    console.log(currentMessage.length)
     socket.emit('clientMessage', JSON.stringify({ text: currentMessage }))
   } else {
-    alert('Dude you should be sending empty messages arround the world!!!')
+    alert('Dude you should not be sending empty messages arround the world!!!')
   }
 })

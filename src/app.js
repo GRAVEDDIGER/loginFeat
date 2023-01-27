@@ -97,6 +97,7 @@ socketSrv.on('connection', async (socket) => {
       })
   const data = await messagePersistance.find()
 // envia al front la informacion obtenida de la base de datos en la colleccion de mensajes
+
   socket.emit('serverMessage', JSON.stringify(data))
 // escucha cuando el front envia un nuevo mensaje y compone el objeto para generar la persistencia en la base de datos
   socket.on('clientMessage', (message) => {
@@ -104,7 +105,6 @@ socketSrv.on('connection', async (socket) => {
     const msgObj = JSON.parse(message)
     console.log(colors.bgGreen.bold(msgObj))
 // la funcion object transpiler genera el objeto a ser luego persistido
-console.log(userData)
     messageParsed = JSON.stringify(objectTranspiler(userData, msgObj))
     messagePersistance.create(JSON.parse(messageParsed))
 // envia la informacion al front para que se pinte en el dom

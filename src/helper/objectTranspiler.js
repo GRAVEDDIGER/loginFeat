@@ -13,9 +13,13 @@ function objectTranspiler(userData, message) {
       }
       } : {
         author: {
-          ...userData,
-          id:userData.user,
-          user:undefined,
+          nombre:userData.nombre,
+          id:userData.username,
+          apellido:userData.apellido,
+          edad:userData.edad,
+          alias:userData.alias,
+          avatar:userData.avatar,
+          username:undefined,
           password:undefined
         }}
 }
