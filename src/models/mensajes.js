@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 const colors = require('colors')
 require('dotenv').config()
-const url = process.env.MONGO_URL1 + process.env.MONGO_PASS + process.env.MONGO_URL2
+const url = process.env.MONGOURL
 const dbConnect = async () => {
     mongoose.set('strictQuery', true)
     return mongoose.connect(url)

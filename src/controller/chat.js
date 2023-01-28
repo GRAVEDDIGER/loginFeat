@@ -3,7 +3,7 @@ const getData = (req, res) => {
    function validarSession()  {
     let headerObj = {isLogged:false}
     console.log(req.session, req.passport, 'text')
-        if (req.session.passport.user !== undefined) {
+        if ('passport' in req.session && 'user' in req.session.passport) {
             headerObj = {isLogged:true, name:' '}
         } else headerObj = {isLogged:false}
         res.render('chat', headerObj)

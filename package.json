@@ -23,7 +23,7 @@
     "morgan": "^1.10.0",
     "nodemon": "^2.0.20",
     "passport": "^0.6.0",
-    "passport-fast-config": "^1.0.2-b",
+    "passport-fast-config": "^1.0.4-b",
     "passport-local": "^1.0.0",
     "postcss": "^8.4.21",
     "session-file-store": "^1.5.0",

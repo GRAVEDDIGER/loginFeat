@@ -4,25 +4,21 @@
 
 const express = require('express')
 const morgan = require('morgan')
+const mongoose = require('mongoose')
 const socket = require('socket.io')
 const path = require('path')
 const handlebars = require('express-handlebars')
 const colors = require('colors')
-const products = require('./routes/product.js')
-const chat = require('./routes/chat')
-const login = require('./routes/login')
-const logout = require('./routes/logout')
+const Routes = require('./routes/routes')
 const objectTranspiler = require('./helper/objectTranspiler')
-const register = require('./routes/register')
 const session = require('express-session')
 const MongoStore = require('connect-mongo')
 const passport = require('passport')
 const flash = require('connect-flash')
-const passportConfigBuilder = require('passport-fast-config')
+const passportConfigBuilder = require('passport-fast-config').default
 const messagePersistance = require('./models/mensajes').userModel
 const PORT = process.env.PORT || 8080
 const app = express()
-const failRoutes = require('./routes/failroutes')
 const sesssionMiddleware = session({
   store: MongoStore.create({mongoUrl:'mongodb+srv://dcsweb:MopG23GHLEu3GwB0@dcsweb.snm3hyr.mongodb.net/?retryWrites=true&w=majority', ttl:600000}),
   secret: 'Lorem Ipsum',
@@ -44,31 +40,31 @@ app.engine('handlebars', handlebars.engine())
 app.set('view engine', 'handlebars')
 app.use(express.json())
 app.use(express.urlencoded({ extended: false }))
-
-const passportAccess = passportConfigBuilder({
+console.log(passportConfigBuilder)
+const passportAccess = passportConfigBuilder(new mongoose.Schema({
   nombre:{type:String, require},
   apellido:{type:String, require},
   edad:{type:Number, require},
   alias:{type:String, require},
   avatar:{type:String, require}
-}, 'mongodb+srv://dcsweb:MopG23GHLEu3GwB0@dcsweb.snm3hyr.mongodb.net/?retryWrites=true&w=majority')
+}))
 .GoogleoAuth(
   {
     clientID: '781852376959-1rqb531406erb9hplkvcrg7rmhdjp0hb.apps.googleusercontent.com',
     clientSecret: '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',
     callbackURL: 'http://localhost:8080/auth/google/callback'
   }, true)
-  .initializePassport()
+  .buildLocalConfig()
   app.use(passport.initialize())
   app.use(passport.session())
   app.use(flash())
-  app.use('/logout', logout)
-  app.use('/products', products)
-  app.use('/chat', chat)
-  app.use('/login', login)
-  app.use('/logout', login)
-  app.use('/', failRoutes)
-app.use('/register', register)
+  app.use('/logout', Routes.logout)
+  app.use('/products', Routes.products)
+  app.use('/chat', Routes.chat)
+  app.use('/login', Routes.login)
+  app.use('/logout', Routes.login)
+  app.use('/', Routes.failroutes)
+app.use('/register', Routes.register)
 app.use(morgan('tiny'))
 
 // ////////////////////
