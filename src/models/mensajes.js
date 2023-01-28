@@ -6,7 +6,6 @@ const dbConnect = async () => {
     mongoose.set('strictQuery', true)
     return mongoose.connect(url)
   }
-  console.log(url)
 dbConnect()
     .then(() => console.log(colors.bgGreen.white.bold('Mongo connected')))
     .catch(() => console.log(colors.bgRed.bold('Unable to connect DB')))

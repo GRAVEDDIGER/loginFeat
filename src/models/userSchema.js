@@ -9,5 +9,4 @@ const UserSchema = new mongoose.Schema({
     alias:{type:String, require},
     avatar:{type:String, require}
   })
-const userModel = mongoose.model('users', UserSchema)
-module.exports = {UserSchema, userModel}
+module.exports = {UserSchema}

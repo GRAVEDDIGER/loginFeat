@@ -1,13 +1,12 @@
 const colors = require('colors')
 const socket = require('socket.io')
-const server = require('http')()
-const usersModel = require('../models/userSchema').userModel
-const messagePersistance = require('./models/mensajes').userModel
-const objectTranspiler = require('./helper/objectTranspiler')
-
+const messagePersistance = require('../models/mensajes').userModel
+const objectTranspiler = require('../helper/objectTranspiler')
+function initializeSockets(server, passportConfigObject, sessionMiddleware) {
+  const usersModel = passportConfigObject.users
 const wrap = middleware => (socket, next) => middleware(socket.request, {}, next)
 const socketSrv = socket(server)
-socketSrv.use(wrap(require('../middlewares/session')))
+socketSrv.use(wrap(sessionMiddleware))
 
 socketSrv.on('connection', async (socket) => {
   let userData
@@ -24,7 +23,6 @@ socketSrv.on('connection', async (socket) => {
   socket.on('clientMessage', (message) => {
     let messageParsed
     const msgObj = JSON.parse(message)
-    console.log(colors.bgGreen.bold(msgObj))
 // la funcion object transpiler genera el objeto a ser luego persistido
     messageParsed = JSON.stringify(objectTranspiler(userData, msgObj))
     messagePersistance.create(JSON.parse(messageParsed))
@@ -32,3 +30,5 @@ socketSrv.on('connection', async (socket) => {
     socketSrv.emit('serverMessage', messageParsed)
   })
 })
+}
+module.exports = initializeSockets

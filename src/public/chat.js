@@ -38,7 +38,6 @@ messageForm.addEventListener('submit', (e) => {
   e.preventDefault()
   currentMessage = document.getElementById('messageBox').value
   if (currentMessage.trim().length !== 0) {
-    console.log(currentMessage.length)
     socket.emit('clientMessage', JSON.stringify({ text: currentMessage }))
   } else {
     alert('Dude you should not be sending empty messages arround the world!!!')
