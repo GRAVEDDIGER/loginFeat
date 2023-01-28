@@ -150,12 +150,27 @@ img {
   margin: 0 1rem;
   padding: 1rem;
 }
-.logout{display: none;}
-.visible{display: flex !important;}
+.logout {
+  display: none;
+}
+.visible {
+  display: flex !important;
+}
 
-.errorMessage{
-  color:white;
+.errorMessage {
+  color: white;
   background-color: red;
   font-weight: bold;
   text-align: center;
+}
+.sysInfo {
+  display: flex;
+  flex-direction: row;
+}
+.sysInfo > article {
+  min-width: 400px;
+  padding: 1rem;
+}
+.sysInfo > article > div {
+  padding: 1rem 0;
 }
