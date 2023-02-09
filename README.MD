@@ -14,6 +14,15 @@ npm passport-fast-config
 
 This package is only working on ecm module import im working on a hybrid aproach to for this
 
+## PM2 Implementation required for this FEATURE
+```bash
+[adrianabadin@fedora loginFeat]$ pm2 start . -i max --watch --log pm2logger.log -- start --port=3000
+```
+![Alt text](PM21.png)
+
+
+
+
 ### INSTALL:
 
 ```bash

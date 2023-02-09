@@ -3,9 +3,10 @@ const Routes = require('../routes/routes')
 const UserSchema = require('../models/userSchema').UserSchema
 const passport = require('passport')
 const flash = require('connect-flash')
-const passportConfigBuilder = require('passport-fast-config').default
+const passportConfigBuilder = require('../passconfig.js')
 const sesssionMiddleware = require('./session')
 
+// convirtiendo a models el param del modulo
 function middlewares(app, express) {
     app.use(sesssionMiddleware)
     app.use(express.json())
@@ -15,6 +16,7 @@ function middlewares(app, express) {
     app.use(passport.session())
     app.use(flash())
     app.use('/random', Routes.random)
+    app.use('/update', Routes.update)
     app.use('/logout', Routes.logout)
     app.use('/products', Routes.products)
     app.use('/chat', Routes.chat)
