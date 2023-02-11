@@ -1,5 +1,6 @@
 const mongoose = require('mongoose')
-const colors = require('colors')
+const objectLogger = require('../configurations/log4js.config')
+
 require('dotenv').config()
 const url = process.env.MONGOURL
 const dbConnect = async () => {
@@ -7,8 +8,8 @@ const dbConnect = async () => {
     return mongoose.connect(url)
   }
 dbConnect()
-    .then(() => console.log(colors.bgGreen.white.bold('Mongo connected')))
-    .catch(() => console.log(colors.bgRed.bold('Unable to connect DB')))
+    .then(() => objectLogger.info.info('Mongo connected'))
+    .catch(() => objectLogger.error.error('Unable to connect DB'))
 
 const Schema = mongoose.Schema
 const messageSchema = new Schema({

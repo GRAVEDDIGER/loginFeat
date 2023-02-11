@@ -1,7 +1,8 @@
 require('dotenv').config()
+const objectLogger = require('../configurations/log4js.config')
 const mongoose = require('mongoose')
 mongoose.set('strictQuery', false)
-mongoose.connect(process.env.MONGOURL).then(() => console.log('Mongo Connected'))
+mongoose.connect(process.env.MONGOURL).then(() => objectLogger.info.info('Mongo Connected'))
 const UserSchema = new mongoose.Schema({
     nombre:{type:String, require},
     apellido:{type:String, require},

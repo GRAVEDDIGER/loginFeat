@@ -1,5 +1,7 @@
 const routes = require('express').Router()
-routes.get('/', (req, res) => {
+const compresion = require('compression')
+const objectLogger = require('../configurations/log4js.config')
+routes.get('/', compresion(6), (req, res) => {
 const dataObject = {
     args:process.argv.slice(2),
     so:process.platform,
@@ -10,7 +12,7 @@ const dataObject = {
     cwd:process.cwd()
 
 }
-console.log(process.argv.splice(2).join(','))
+objectLogger.info.info(dataObject)
 res.render('info', {processData:dataObject})
 })
 module.exports = routes

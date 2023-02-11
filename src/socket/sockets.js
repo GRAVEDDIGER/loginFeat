@@ -1,8 +1,9 @@
-const colors = require('colors')
+// const colors = require('colors')
 const socket = require('socket.io')
+// const objectLogger = require('../configurations/log4js.config')
 const messagePersistance = require('../models/mensajes').userModel
 const objectTranspiler = require('../helper/objectTranspiler')
-function initializeSockets(server, passportConfigObject, sessionMiddleware) {
+function initializeSockets(server, passportConfigObject, sessionMiddleware, objectLogger) {
   const usersModel = passportConfigObject.users
 const wrap = middleware => (socket, next) => middleware(socket.request, {}, next)
 const socketSrv = socket(server)
@@ -10,7 +11,7 @@ socketSrv.use(wrap(sessionMiddleware))
 
 socketSrv.on('connection', async (socket) => {
   let userData
-  console.log(colors.bgCyan.white.bold('WebSockets Connected'))
+  objectLogger.info.info('WebSockets Connected')
   socket.on('userRequest', async () => {
     userData = await usersModel.findById(socket.request.session.passport.user)
     socket.emit('userResponse', JSON.stringify(objectTranspiler(userData, false)))

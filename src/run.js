@@ -1,6 +1,7 @@
 // const { command } = require('yargs')
 
 require('dotenv').config()
+const objectLogger = require('./configurations/log4js.config')
 const main = require('./app')
 const {hideBin} = require('yargs/helpers')
 const cluster = require('cluster')
@@ -28,21 +29,21 @@ if (MODE === 'CLUSTER') {
     if (cluster.isPrimary) {
         CPUS.forEach(() => {
             const worker = cluster.fork()
-            console.log('Worker Created PID: ' + worker.process.pid)
+            objectLogger.info.info('Worker Created PID: ' + worker.process.pid)
 })
 cluster.on('exit', (worker, code) => {
-    console.log(`Worker PID: ${worker.process.pid} exited with code: ${worker}`)
+    objectLogger.error.error(`Worker PID: ${worker.process.pid} exited with code: ${worker}`)
     cluster.fork()
 })
-    } else main(PORT)
+    } else main(PORT, objectLogger)
 } else {
     if (cluster.isPrimary) {
         const worker = cluster.fork()
-        console.log('Fork Mode wroker PID: ', worker.process.pid)
+        objectLogger.info.info('Fork Mode wroker PID: ', worker.process.pid)
 
         cluster.on('exit', (worker, code) => {
-            console.log(`Worker PID: ${worker.process.pid} exited with code: `, code)
+            objectLogger.error.error(`Worker PID: ${worker.process.pid} exited with code: `, code)
             cluster.fork()
         })
-} else main(PORT)
+} else main(PORT, objectLogger)
 }

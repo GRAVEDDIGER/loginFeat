@@ -1,0 +1,358 @@
+[2023-02-11T16:39:18.084] [INFO] info - Fork Mode wroker PID:  10772
+[2023-02-11T16:39:22.745] [INFO] info - Listening on 8080
+[2023-02-11T16:39:23.257] [INFO] info - Mongo connected
+[2023-02-11T16:39:23.258] [INFO] info - Mongo Connected
+[2023-02-11T16:41:09.721] [INFO] info - Fork Mode wroker PID:  1164
+[2023-02-11T16:41:14.327] [INFO] info - Listening on 8080
+[2023-02-11T16:41:15.011] [INFO] info - Mongo connected
+[2023-02-11T16:41:15.012] [INFO] info - Mongo Connected
+[2023-02-11T16:41:20.361] [INFO] info - Fork Mode wroker PID:  4456
+[2023-02-11T16:41:24.644] [INFO] info - Listening on 8080
+[2023-02-11T16:41:25.163] [INFO] info - Mongo connected
+[2023-02-11T16:41:25.163] [INFO] info - Mongo Connected
+[2023-02-11T16:42:02.800] [INFO] info - Fork Mode wroker PID:  9360
+[2023-02-11T16:42:07.655] [INFO] info - Listening on 8080
+[2023-02-11T16:42:08.342] [INFO] info - Mongo connected
+[2023-02-11T16:42:08.343] [INFO] info - Mongo Connected
+[2023-02-11T16:42:13.839] [INFO] info - Fork Mode wroker PID:  8860
+[2023-02-11T16:42:17.971] [INFO] info - Listening on 8080
+[2023-02-11T16:42:18.635] [INFO] info - Mongo connected
+[2023-02-11T16:42:18.635] [INFO] info - Mongo Connected
+[2023-02-11T16:44:53.008] [INFO] info - Fork Mode wroker PID:  7112
+[2023-02-11T16:44:58.264] [INFO] info - Listening on 8080
+[2023-02-11T16:44:58.885] [INFO] info - Mongo connected
+[2023-02-11T16:44:58.886] [INFO] info - Mongo Connected
+[2023-02-11T16:45:28.504] [INFO] info - Fork Mode wroker PID:  8132
+[2023-02-11T16:45:33.258] [INFO] info - Listening on 8080
+[2023-02-11T16:45:33.823] [INFO] info - Mongo connected
+[2023-02-11T16:45:33.824] [INFO] info - Mongo Connected
+[2023-02-11T16:45:37.009] [INFO] info - Fork Mode wroker PID:  1048
+[2023-02-11T16:45:42.518] [INFO] info - Listening on 8080
+[2023-02-11T16:45:43.033] [INFO] info - Mongo connected
+[2023-02-11T16:45:43.033] [INFO] info - Mongo Connected
+[32m[2023-02-11T16:45:46.097] [INFO] info - [39mFork Mode wroker PID:  3584
+[32m[2023-02-11T16:45:51.582] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T16:45:52.108] [INFO] info - [39mMongo connected
+[32m[2023-02-11T16:45:52.109] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T16:47:05.579] [INFO] info - [39mFork Mode wroker PID:  9840
+[32m[2023-02-11T16:47:11.865] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T16:47:12.528] [INFO] info - [39mMongo connected
+[32m[2023-02-11T16:47:12.529] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T16:47:18.983] [INFO] info - [39mFork Mode wroker PID:  8344
+[32m[2023-02-11T16:47:21.666] [INFO] info - [39mFork Mode wroker PID:  6124
+[32m[2023-02-11T16:47:25.799] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T16:47:26.341] [INFO] info - [39mMongo connected
+[32m[2023-02-11T16:47:26.341] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T16:48:10.021] [INFO] info - [39mFork Mode wroker PID:  11524
+[32m[2023-02-11T16:48:16.590] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T16:48:17.218] [INFO] info - [39mMongo connected
+[32m[2023-02-11T16:48:17.218] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T16:48:25.387] [INFO] info - [39mFork Mode wroker PID:  12032
+[32m[2023-02-11T16:48:29.587] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T16:48:30.120] [INFO] info - [39mMongo connected
+[32m[2023-02-11T16:48:30.121] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T16:53:48.471] [INFO] info - [39mFork Mode wroker PID:  1120
+[32m[2023-02-11T16:53:52.807] [INFO] info - [39mFork Mode wroker PID:  10100
+[32m[2023-02-11T16:53:58.286] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T16:53:58.901] [INFO] info - [39mMongo connected
+[32m[2023-02-11T16:53:58.901] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T16:54:32.299] [INFO] info - [39mFork Mode wroker PID:  10944
+[32m[2023-02-11T16:54:36.631] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T16:54:37.155] [INFO] info - [39mMongo connected
+[32m[2023-02-11T16:54:37.156] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T16:55:52.902] [INFO] info - [39mFork Mode wroker PID:  11516
+[32m[2023-02-11T16:55:57.236] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T16:55:57.932] [INFO] info - [39mMongo connected
+[32m[2023-02-11T16:55:57.933] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T16:56:46.194] [INFO] info - [39mFork Mode wroker PID:  9468
+[32m[2023-02-11T16:56:51.306] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T16:56:51.788] [INFO] info - [39mMongo connected
+[32m[2023-02-11T16:56:51.788] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T16:57:00.613] [INFO] info - [39mFork Mode wroker PID:  11356
+[32m[2023-02-11T16:57:05.832] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T16:57:06.433] [INFO] info - [39mMongo connected
+[32m[2023-02-11T16:57:06.433] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T16:57:57.318] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-11T17:00:07.616] [INFO] info - [39mFork Mode wroker PID:  11756
+[32m[2023-02-11T17:00:12.239] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T17:00:12.879] [INFO] info - [39mMongo connected
+[32m[2023-02-11T17:00:12.880] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T17:00:13.015] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-11T17:53:48.122] [INFO] info - [39mFork Mode wroker PID:  7972
+[32m[2023-02-11T17:53:54.569] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T17:53:54.648] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-11T17:53:55.166] [INFO] info - [39mMongo connected
+[32m[2023-02-11T17:53:55.166] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T17:54:21.843] [INFO] info - [39mFork Mode wroker PID:  11184
+[32m[2023-02-11T17:54:26.625] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T17:54:27.172] [INFO] info - [39mMongo connected
+[32m[2023-02-11T17:54:27.173] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T17:54:27.658] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-11T17:55:24.682] [INFO] info - [39mFork Mode wroker PID:  9896
+[32m[2023-02-11T17:55:29.784] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T17:55:30.409] [INFO] info - [39mMongo connected
+[32m[2023-02-11T17:55:30.410] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T17:55:30.481] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-11T17:55:41.217] [INFO] info - [39mFork Mode wroker PID:  9072
+[32m[2023-02-11T17:55:45.934] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T17:55:46.481] [INFO] info - [39mMongo connected
+[32m[2023-02-11T17:55:46.482] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T17:55:47.638] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-11T17:56:50.433] [INFO] info - [39mFork Mode wroker PID:  12264
+[32m[2023-02-11T17:56:54.970] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T17:56:55.549] [INFO] info - [39mMongo connected
+[32m[2023-02-11T17:56:55.549] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T17:56:57.654] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-11T17:57:24.351] [INFO] info - [39mFork Mode wroker PID:  12052
+[32m[2023-02-11T17:57:30.611] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T17:57:31.306] [INFO] info - [39mMongo connected
+[32m[2023-02-11T17:57:31.306] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T17:57:31.634] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-11T17:57:45.929] [INFO] info - [39mFork Mode wroker PID:  10316
+[32m[2023-02-11T17:57:51.636] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T17:57:52.182] [INFO] info - [39mMongo connected
+[32m[2023-02-11T17:57:52.183] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T17:57:52.609] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-11T17:58:09.910] [INFO] info - [39mFork Mode wroker PID:  12276
+[32m[2023-02-11T17:58:14.150] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T17:58:14.796] [INFO] info - [39mMongo connected
+[32m[2023-02-11T17:58:14.796] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T17:58:15.646] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-11T17:58:39.674] [INFO] info - [39mFork Mode wroker PID:  1804
+[32m[2023-02-11T17:58:44.269] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T17:58:44.831] [INFO] info - [39mMongo connected
+[32m[2023-02-11T17:58:44.832] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T17:58:46.647] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-11T17:58:57.152] [INFO] info - [39mFork Mode wroker PID:  9072
+[32m[2023-02-11T17:59:00.658] [INFO] info - [39mFork Mode wroker PID:  7340
+[32m[2023-02-11T17:59:07.916] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T17:59:08.489] [INFO] info - [39mMongo connected
+[32m[2023-02-11T17:59:08.489] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T17:59:11.495] [INFO] info - [39mFork Mode wroker PID:  11284
+[32m[2023-02-11T17:59:19.134] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T17:59:19.911] [INFO] info - [39mMongo connected
+[32m[2023-02-11T17:59:19.912] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T17:59:20.020] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-11T17:59:26.375] [INFO] info - [39mFork Mode wroker PID:  11360
+[32m[2023-02-11T17:59:30.912] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T17:59:31.434] [INFO] info - [39mMongo connected
+[32m[2023-02-11T17:59:31.434] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T17:59:32.749] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-11T17:59:48.320] [INFO] info - [39mFork Mode wroker PID:  1212
+[32m[2023-02-11T17:59:55.247] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T17:59:55.792] [INFO] info - [39mMongo connected
+[32m[2023-02-11T17:59:55.792] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T17:59:55.873] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-11T18:00:14.622] [INFO] info - [39mFork Mode wroker PID:  10512
+[32m[2023-02-11T18:00:22.055] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T18:00:22.751] [INFO] info - [39mMongo connected
+[32m[2023-02-11T18:00:22.751] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T18:00:22.890] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-11T18:00:30.598] [INFO] info - [39mFork Mode wroker PID:  4844
+[32m[2023-02-11T18:00:34.763] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T18:00:35.273] [INFO] info - [39mMongo connected
+[32m[2023-02-11T18:00:35.273] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T18:00:37.640] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-11T18:01:13.197] [INFO] info - [39mFork Mode wroker PID:  10344
+[32m[2023-02-11T18:01:17.721] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T18:01:18.233] [INFO] info - [39mMongo connected
+[32m[2023-02-11T18:01:18.234] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T18:01:20.644] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-11T18:01:23.627] [INFO] info - [39mFork Mode wroker PID:  6076
+[32m[2023-02-11T18:01:27.612] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T18:01:28.339] [INFO] info - [39mMongo connected
+[32m[2023-02-11T18:01:28.340] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T18:01:29.640] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-11T18:01:30.316] [INFO] info - [39mRequest :,function getMethodToken (req) {
+  return req.method
+},Form URL :,function getUrlToken (req) {
+  return req.originalUrl || req.url
+},Status : ,function getStatusToken (req, res) {
+  return headersSent(res)
+    ? String(res.statusCode)
+    : undefined
+},Response Time :,4.450,ms
+[32m[2023-02-11T18:02:08.948] [INFO] info - [39mFork Mode wroker PID:  6528
+[32m[2023-02-11T18:02:13.316] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T18:02:13.831] [INFO] info - [39mMongo connected
+[32m[2023-02-11T18:02:13.831] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T18:02:14.622] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-11T18:02:15.363] [INFO] info - [39mRequest : function getMethodToken (req) {
+  return req.method
+} Form URL : function getUrlToken (req) {
+  return req.originalUrl || req.url
+} Status :  function getStatusToken (req, res) {
+  return headersSent(res)
+    ? String(res.statusCode)
+    : undefined
+} Response Time : 4.919 ms
+[32m[2023-02-11T18:02:26.129] [INFO] info - [39mFork Mode wroker PID:  6540
+[32m[2023-02-11T18:02:30.143] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T18:02:30.732] [INFO] info - [39mMongo connected
+[32m[2023-02-11T18:02:30.733] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T18:02:31.646] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-11T18:02:32.393] [INFO] info - [39mRequest : function getMethodToken (req) {
+  return req.method
+} Form URL : function getUrlToken (req) {
+  return req.originalUrl || req.url
+} Status :  function getStatusToken (req, res) {
+  return headersSent(res)
+    ? String(res.statusCode)
+    : undefined
+} Response Time : 10.430 ms
+[32m[2023-02-11T18:04:07.436] [INFO] info - [39mFork Mode wroker PID:  5596
+[32m[2023-02-11T18:04:13.469] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T18:04:14.064] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-11T18:04:14.294] [INFO] info - [39mMongo connected
+[32m[2023-02-11T18:04:14.295] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T18:04:22.841] [INFO] info - [39mFork Mode wroker PID:  3684
+[32m[2023-02-11T18:04:31.869] [INFO] info - [39mFork Mode wroker PID:  4080
+[32m[2023-02-11T18:04:36.227] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T18:04:36.744] [INFO] info - [39mMongo connected
+[32m[2023-02-11T18:04:36.744] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T18:04:36.815] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-11T18:04:37.625] [INFO] info - [39mGET /1 302 28 - 4.444 ms
+[32m[2023-02-11T18:05:08.947] [INFO] info - [39mFork Mode wroker PID:  12064
+[32m[2023-02-11T18:05:13.027] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T18:05:13.555] [INFO] info - [39mMongo connected
+[32m[2023-02-11T18:05:13.555] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T18:05:14.644] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-11T18:05:16.116] [INFO] info - [39mGET /1 302 28 - 4.394 ms
+[32m[2023-02-11T18:05:51.041] [INFO] info - [39mFork Mode wroker PID:  7112
+[32m[2023-02-11T18:05:55.169] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T18:05:55.790] [INFO] info - [39mMongo connected
+[32m[2023-02-11T18:05:55.790] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T18:05:56.638] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-11T18:05:57.505] [INFO] info - [39mGET /1 302 28 - 4.485 ms
+[32m[2023-02-11T18:14:13.322] [INFO] info - [39mFork Mode wroker PID:  12272
+[32m[2023-02-11T18:14:19.475] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T18:14:20.095] [INFO] info - [39mMongo connected
+[32m[2023-02-11T18:14:20.096] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T18:14:20.242] [INFO] info - [39mGET /chatss 500 1368 - 6.890 ms
+[32m[2023-02-11T18:14:49.109] [INFO] info - [39mFork Mode wroker PID:  11732
+[32m[2023-02-11T18:14:55.258] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T18:14:55.419] [INFO] info - [39mGET /chatss 302 56 - 28.259 ms
+[32m[2023-02-11T18:14:55.838] [INFO] info - [39mMongo connected
+[32m[2023-02-11T18:14:55.838] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T18:14:56.226] [INFO] info - [39mGET /favicon.ico 302 28 - 2.738 ms
+[32m[2023-02-11T18:18:41.668] [INFO] info - [39mFork Mode wroker PID:  11148
+[32m[2023-02-11T18:18:47.334] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T18:18:47.926] [INFO] info - [39mMongo connected
+[32m[2023-02-11T18:18:47.926] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T18:18:51.493] [INFO] info - [39mFork Mode wroker PID:  1844
+[32m[2023-02-11T18:18:56.609] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T18:18:57.108] [INFO] info - [39mMongo connected
+[32m[2023-02-11T18:18:57.108] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T18:19:19.273] [INFO] info - [39mFork Mode wroker PID:  9924
+[32m[2023-02-11T18:19:23.765] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T18:19:24.265] [INFO] info - [39mMongo connected
+[32m[2023-02-11T18:19:24.265] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T18:27:08.449] [INFO] info - [39mFork Mode wroker PID:  2916
+[32m[2023-02-11T18:27:16.330] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T18:27:17.023] [INFO] info - [39mMongo connected
+[32m[2023-02-11T18:27:17.023] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T18:30:52.729] [INFO] info - [39mFork Mode wroker PID:  5884
+[32m[2023-02-11T18:30:59.962] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T18:31:00.584] [INFO] info - [39mMongo connected
+[32m[2023-02-11T18:31:00.585] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T18:31:27.512] [INFO] info - [39mGET / 302 56 - 14.986 ms
+[32m[2023-02-11T18:31:28.147] [INFO] info - [39mGET /favicon.ico 302 28 - 5.871 ms
+[32m[2023-02-11T18:31:32.098] [INFO] info - [39mGET /favicon.ico 302 28 - 1.305 ms
+[32m[2023-02-11T18:31:32.943] [INFO] info - [39mGET /favicon.ico 302 28 - 1.164 ms
+[32m[2023-02-11T18:31:34.404] [INFO] info - [39mGET /favicon.ico 302 28 - 0.850 ms
+[32m[2023-02-11T18:32:12.427] [INFO] info - [39mFork Mode wroker PID:  11612
+[32m[2023-02-11T18:32:17.466] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T18:32:18.131] [INFO] info - [39mMongo connected
+[32m[2023-02-11T18:32:18.132] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T18:32:18.259] [INFO] info - [39m{
+  args: [],
+  so: 'win32',
+  node: 'v16.16.0',
+  memory: 102637568,
+  path: 'C:\\Users\\aabadin\\Desktop\\node-v16.16.0-win-x64\\node.exe',
+  pid: 11612,
+  cwd: 'C:\\Users\\aabadin\\Documents\\code\\loginFeat'
+}
+[32m[2023-02-11T18:32:18.755] [INFO] info - [39mGET /favicon.ico 302 28 - 5.575 ms
+[32m[2023-02-11T18:52:48.220] [INFO] info - [39mFork Mode wroker PID:  12072
+[32m[2023-02-11T18:52:52.637] [INFO] info - [39mFork Mode wroker PID:  3520
+[32m[2023-02-11T18:52:58.332] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T18:52:58.947] [INFO] info - [39mMongo connected
+[32m[2023-02-11T18:52:58.947] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T18:53:33.391] [INFO] info - [39m{
+  args: [],
+  so: 'win32',
+  node: 'v16.16.0',
+  memory: 72007680,
+  path: 'C:\\Users\\aabadin\\Desktop\\node-v16.16.0-win-x64\\node.exe',
+  pid: 3520,
+  cwd: 'C:\\Users\\aabadin\\Documents\\code\\loginFeat'
+}
+[32m[2023-02-11T18:53:33.648] [INFO] info - [39mGET /favicon.ico 302 28 - 11.604 ms
+[32m[2023-02-11T18:53:49.567] [INFO] info - [39m{
+  args: [],
+  so: 'win32',
+  node: 'v16.16.0',
+  memory: 76353536,
+  path: 'C:\\Users\\aabadin\\Desktop\\node-v16.16.0-win-x64\\node.exe',
+  pid: 3520,
+  cwd: 'C:\\Users\\aabadin\\Documents\\code\\loginFeat'
+}
+[32m[2023-02-11T18:53:50.014] [INFO] info - [39mGET /favicon.ico 302 28 - 2.151 ms
+[32m[2023-02-11T18:53:57.283] [INFO] info - [39m{
+  args: [],
+  so: 'win32',
+  node: 'v16.16.0',
+  memory: 73461760,
+  path: 'C:\\Users\\aabadin\\Desktop\\node-v16.16.0-win-x64\\node.exe',
+  pid: 3520,
+  cwd: 'C:\\Users\\aabadin\\Documents\\code\\loginFeat'
+}
+[32m[2023-02-11T18:53:57.693] [INFO] info - [39mGET /favicon.ico 302 28 - 2.854 ms
+[32m[2023-02-11T18:54:25.006] [INFO] info - [39mFork Mode wroker PID:  12264
+[32m[2023-02-11T18:54:34.890] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T18:54:35.596] [INFO] info - [39mMongo connected
+[32m[2023-02-11T18:54:35.597] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T18:54:35.745] [INFO] info - [39m{
+  args: [],
+  so: 'win32',
+  node: 'v16.16.0',
+  memory: 102604800,
+  path: 'C:\\Users\\aabadin\\Desktop\\node-v16.16.0-win-x64\\node.exe',
+  pid: 12264,
+  cwd: 'C:\\Users\\aabadin\\Documents\\code\\loginFeat'
+}
+[32m[2023-02-11T18:54:36.478] [INFO] info - [39mGET /favicon.ico 302 28 - 7.824 ms
+[32m[2023-02-11T18:54:52.316] [INFO] info - [39mFork Mode wroker PID:  11736
+[32m[2023-02-11T18:54:58.160] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T18:54:58.670] [INFO] info - [39mMongo connected
+[32m[2023-02-11T18:54:58.670] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T18:55:11.454] [INFO] info - [39m{
+  args: [],
+  so: 'win32',
+  node: 'v16.16.0',
+  memory: 101789696,
+  path: 'C:\\Users\\aabadin\\Desktop\\node-v16.16.0-win-x64\\node.exe',
+  pid: 11736,
+  cwd: 'C:\\Users\\aabadin\\Documents\\code\\loginFeat'
+}
+[32m[2023-02-11T18:55:12.023] [INFO] info - [39mGET /favicon.ico 302 28 - 8.055 ms
+[32m[2023-02-11T18:55:34.077] [INFO] info - [39mFork Mode wroker PID:  5100
+[32m[2023-02-11T18:55:39.814] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T18:55:40.387] [INFO] info - [39mMongo connected
+[32m[2023-02-11T18:55:40.387] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T18:55:45.970] [INFO] info - [39mGET /favicon.ico 302 28 - 3.433 ms
+[32m[2023-02-11T18:56:19.968] [INFO] info - [39mFork Mode wroker PID:  5068
+[32m[2023-02-11T18:56:27.427] [INFO] info - [39mListening on 8080
+[32m[2023-02-11T18:56:27.941] [INFO] info - [39mMongo connected
+[32m[2023-02-11T18:56:27.942] [INFO] info - [39mMongo Connected
+[32m[2023-02-11T18:56:30.920] [INFO] info - [39m{
+  args: [],
+  so: 'win32',
+  node: 'v16.16.0',
+  memory: 102232064,
+  path: 'C:\\Users\\aabadin\\Desktop\\node-v16.16.0-win-x64\\node.exe',
+  pid: 5068,
+  cwd: 'C:\\Users\\aabadin\\Documents\\code\\loginFeat'
+}
+[32m[2023-02-11T18:56:31.717] [INFO] info - [39mGET /favicon.ico 302 28 - 8.174 ms
