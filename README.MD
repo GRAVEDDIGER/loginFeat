@@ -15,13 +15,43 @@ npm passport-fast-config
 This package is only working on ecm module import im working on a hybrid aproach to for this
 
 ## PM2 Implementation required for this FEATURE
+
 ```bash
-[adrianabadin@fedora loginFeat]$ pm2 start . -i max --watch --log pm2logger.log -- start --port=3000
+pm2 start ./src/run.js --name=run1 --log Fork.log -- start --port=8081
+pm2 start ./src/run.js --name=run2 -i max --log Fork.log -- start --port=8080
+start nginx
 ```
+
+## NGINX CONFIG
+
+```js
+events {}
+http {
+    include mime.types;
+    default_type application/octet-stream;
+    upstream node_app {
+
+        server localhost:8081;
+        }
+    upstream random_app{
+        server localhost:8080/random;
+    }
+    server{
+        server_name localhost:8080;
+        listen 80;
+
+    location / {
+        proxy_pass node_app;
+    }
+    location /random {
+        proxy_pass random_app;
+    }
+    }
+
+}
+```
+
 ![Alt text](PM21.png)
-
-
-
 
 ### INSTALL:
 

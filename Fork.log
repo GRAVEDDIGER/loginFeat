@@ -53,3 +53,5 @@ GET /favicon.ico 302 28 - 0.743 ms
 GET /favicon.ico 302 28 - 0.429 ms
 GET /1 302 28 - 0.729 ms
 GET /favicon.ico 302 28 - 0.485 ms
+GET /favicon.ico 302 28 - 0.422 ms
+GET /favicon.ico 302 28 - 1.252 ms
