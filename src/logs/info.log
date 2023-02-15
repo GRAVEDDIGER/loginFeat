@@ -356,3 +356,684 @@
   cwd: 'C:\\Users\\aabadin\\Documents\\code\\loginFeat'
 }
 [32m[2023-02-11T18:56:31.717] [INFO] info - [39mGET /favicon.ico 302 28 - 8.174 ms
+[32m[2023-02-14T17:16:35.353] [INFO] info - [39mWorker Created PID: 52928
+[32m[2023-02-14T17:16:35.368] [INFO] info - [39mWorker Created PID: 52929
+[32m[2023-02-14T17:16:35.376] [INFO] info - [39mWorker Created PID: 52930
+[32m[2023-02-14T17:16:35.388] [INFO] info - [39mWorker Created PID: 52931
+[32m[2023-02-14T17:16:35.402] [INFO] info - [39mWorker Created PID: 52932
+[32m[2023-02-14T17:16:35.422] [INFO] info - [39mWorker Created PID: 52933
+[32m[2023-02-14T17:16:35.435] [INFO] info - [39mWorker Created PID: 52935
+[32m[2023-02-14T17:16:35.468] [INFO] info - [39mWorker Created PID: 52946
+[32m[2023-02-14T17:16:53.815] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T17:16:53.825] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T17:16:53.861] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T17:16:53.876] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T17:16:53.843] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T17:16:53.933] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T17:16:53.911] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T17:16:54.026] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T17:16:56.137] [INFO] info - [39mMongo connected
+[32m[2023-02-14T17:16:56.137] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T17:16:56.150] [INFO] info - [39mMongo connected
+[32m[2023-02-14T17:16:56.151] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T17:16:56.217] [INFO] info - [39mMongo connected
+[32m[2023-02-14T17:16:56.217] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T17:16:56.227] [INFO] info - [39mMongo connected
+[32m[2023-02-14T17:16:56.227] [INFO] info - [39mMongo connected
+[32m[2023-02-14T17:16:56.229] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T17:16:56.228] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T17:16:56.258] [INFO] info - [39mMongo connected
+[32m[2023-02-14T17:16:56.259] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T17:16:56.260] [INFO] info - [39mMongo connected
+[32m[2023-02-14T17:16:56.260] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T17:16:56.261] [INFO] info - [39mMongo connected
+[32m[2023-02-14T17:16:56.262] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T17:21:16.655] [INFO] info - [39mGET /favicon.ico 302 28 - 17.576 ms
+[32m[2023-02-14T17:28:43.520] [INFO] info - [39mWorker Created PID: 56907
+[32m[2023-02-14T17:28:43.554] [INFO] info - [39mWorker Created PID: 56908
+[32m[2023-02-14T17:28:43.566] [INFO] info - [39mWorker Created PID: 56909
+[32m[2023-02-14T17:28:43.586] [INFO] info - [39mWorker Created PID: 56915
+[32m[2023-02-14T17:28:43.601] [INFO] info - [39mWorker Created PID: 56918
+[32m[2023-02-14T17:28:43.624] [INFO] info - [39mWorker Created PID: 56919
+[32m[2023-02-14T17:28:43.677] [INFO] info - [39mWorker Created PID: 56925
+[32m[2023-02-14T17:28:43.697] [INFO] info - [39mWorker Created PID: 56945
+[32m[2023-02-14T17:29:09.100] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T17:29:09.135] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T17:29:09.148] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T17:29:09.175] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T17:29:09.230] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T17:29:09.398] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T17:29:09.444] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T17:29:09.460] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T17:29:11.237] [INFO] info - [39mMongo connected
+[32m[2023-02-14T17:29:11.238] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T17:29:11.398] [INFO] info - [39mMongo connected
+[32m[2023-02-14T17:29:11.399] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T17:29:11.398] [INFO] info - [39mMongo connected
+[32m[2023-02-14T17:29:11.399] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T17:29:11.469] [INFO] info - [39mMongo connected
+[32m[2023-02-14T17:29:11.471] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T17:29:11.489] [INFO] info - [39mMongo connected
+[32m[2023-02-14T17:29:11.490] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T17:29:11.533] [INFO] info - [39mMongo connected
+[32m[2023-02-14T17:29:11.534] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T17:29:11.570] [INFO] info - [39mMongo connected
+[32m[2023-02-14T17:29:11.571] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T17:29:11.598] [INFO] info - [39mMongo connected
+[32m[2023-02-14T17:29:11.599] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T17:29:23.956] [INFO] info - [39mGET / 302 56 - 22.601 ms
+[32m[2023-02-14T17:29:25.207] [INFO] info - [39mGET /favicon.ico 302 28 - 13.856 ms
+[32m[2023-02-14T17:30:04.820] [INFO] info - [39mGET /favicon.ico 302 28 - 30.590 ms
+[32m[2023-02-14T17:33:57.956] [INFO] info - [39mGET /favicon.ico 302 28 - 57.467 ms
+[32m[2023-02-14T17:35:17.671] [INFO] info - [39mGET /favicon.ico 302 28 - 64.400 ms
+[32m[2023-02-14T17:36:28.642] [INFO] info - [39mWorker Created PID: 58389
+[32m[2023-02-14T17:36:28.657] [INFO] info - [39mWorker Created PID: 58390
+[32m[2023-02-14T17:36:28.665] [INFO] info - [39mWorker Created PID: 58391
+[32m[2023-02-14T17:36:28.674] [INFO] info - [39mWorker Created PID: 58392
+[32m[2023-02-14T17:36:28.690] [INFO] info - [39mWorker Created PID: 58393
+[32m[2023-02-14T17:36:28.707] [INFO] info - [39mWorker Created PID: 58399
+[32m[2023-02-14T17:36:28.749] [INFO] info - [39mWorker Created PID: 58400
+[32m[2023-02-14T17:36:28.764] [INFO] info - [39mWorker Created PID: 58411
+[32m[2023-02-14T17:36:47.560] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T17:36:47.597] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T17:36:47.621] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T17:36:47.639] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T17:36:47.659] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T17:36:47.695] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T17:36:47.688] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T17:36:47.709] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T17:36:49.491] [INFO] info - [39mMongo connected
+[32m[2023-02-14T17:36:49.492] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T17:36:49.557] [INFO] info - [39mMongo connected
+[32m[2023-02-14T17:36:49.558] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T17:36:49.563] [INFO] info - [39mMongo connected
+[32m[2023-02-14T17:36:49.564] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T17:36:49.642] [INFO] info - [39mMongo connected
+[32m[2023-02-14T17:36:49.642] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T17:36:49.775] [INFO] info - [39mMongo connected
+[32m[2023-02-14T17:36:49.776] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T17:36:49.777] [INFO] info - [39mMongo connected
+[32m[2023-02-14T17:36:49.777] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T17:36:49.798] [INFO] info - [39mMongo connected
+[32m[2023-02-14T17:36:49.799] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T17:36:49.851] [INFO] info - [39mMongo connected
+[32m[2023-02-14T17:36:49.852] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T17:37:08.299] [INFO] info - [39mGET /favicon.ico 302 28 - 16.274 ms
+[32m[2023-02-14T18:28:00.859] [INFO] info - [39mWorker Created PID: 63116
+[32m[2023-02-14T18:28:00.878] [INFO] info - [39mWorker Created PID: 63117
+[32m[2023-02-14T18:28:00.888] [INFO] info - [39mWorker Created PID: 63118
+[32m[2023-02-14T18:28:00.904] [INFO] info - [39mWorker Created PID: 63119
+[32m[2023-02-14T18:28:00.936] [INFO] info - [39mWorker Created PID: 63125
+[32m[2023-02-14T18:28:00.951] [INFO] info - [39mWorker Created PID: 63131
+[32m[2023-02-14T18:28:00.968] [INFO] info - [39mWorker Created PID: 63140
+[32m[2023-02-14T18:28:00.987] [INFO] info - [39mWorker Created PID: 63146
+[32m[2023-02-14T18:28:11.449] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T18:28:11.601] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T18:28:11.766] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T18:28:12.141] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T18:28:12.227] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T18:28:12.304] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T18:28:12.521] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T18:28:12.645] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T18:28:18.784] [INFO] info - [39mMongo connected
+[32m[2023-02-14T18:28:18.784] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T18:28:18.786] [INFO] info - [39mMongo connected
+[32m[2023-02-14T18:28:18.787] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T18:28:18.787] [INFO] info - [39mMongo connected
+[32m[2023-02-14T18:28:18.788] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T18:28:18.793] [INFO] info - [39mMongo connected
+[32m[2023-02-14T18:28:18.794] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T18:28:18.812] [INFO] info - [39mMongo connected
+[32m[2023-02-14T18:28:18.813] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T18:28:18.902] [INFO] info - [39mMongo connected
+[32m[2023-02-14T18:28:18.902] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T18:28:18.912] [INFO] info - [39mMongo connected
+[32m[2023-02-14T18:28:18.913] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T18:28:18.934] [INFO] info - [39mMongo connected
+[32m[2023-02-14T18:28:18.935] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T18:28:42.159] [INFO] info - [39mGET /favicon.ico 302 28 - 24.323 ms
+[32m[2023-02-14T18:41:40.591] [INFO] info - [39mWorker Created PID: 68551
+[32m[2023-02-14T18:41:40.613] [INFO] info - [39mWorker Created PID: 68552
+[32m[2023-02-14T18:41:40.622] [INFO] info - [39mWorker Created PID: 68553
+[32m[2023-02-14T18:41:40.635] [INFO] info - [39mWorker Created PID: 68554
+[32m[2023-02-14T18:41:40.654] [INFO] info - [39mWorker Created PID: 68555
+[32m[2023-02-14T18:41:40.672] [INFO] info - [39mWorker Created PID: 68556
+[32m[2023-02-14T18:41:40.724] [INFO] info - [39mWorker Created PID: 68558
+[32m[2023-02-14T18:41:40.763] [INFO] info - [39mWorker Created PID: 68583
+[32m[2023-02-14T18:42:01.392] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T18:42:01.395] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T18:42:01.442] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T18:42:01.443] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T18:42:01.479] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T18:42:01.489] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T18:42:01.581] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T18:42:01.629] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T18:42:05.075] [INFO] info - [39mMongo connected
+[32m[2023-02-14T18:42:05.075] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T18:42:05.076] [INFO] info - [39mMongo connected
+[32m[2023-02-14T18:42:05.076] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T18:42:05.175] [INFO] info - [39mMongo connected
+[32m[2023-02-14T18:42:05.176] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T18:42:05.192] [INFO] info - [39mMongo connected
+[32m[2023-02-14T18:42:05.193] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T18:42:05.249] [INFO] info - [39mMongo connected
+[32m[2023-02-14T18:42:05.251] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T18:42:05.269] [INFO] info - [39mMongo connected
+[32m[2023-02-14T18:42:05.270] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T18:42:05.314] [INFO] info - [39mMongo connected
+[32m[2023-02-14T18:42:05.318] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T18:42:05.689] [INFO] info - [39mMongo connected
+[32m[2023-02-14T18:42:05.690] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T18:46:50.540] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 68513792,
+  path: '/usr/bin/node',
+  pid: 68551,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:50.555] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 80191488,
+  path: '/usr/bin/node',
+  pid: 68554,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:50.542] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 84447232,
+  path: '/usr/bin/node',
+  pid: 68556,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:50.602] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 91189248,
+  path: '/usr/bin/node',
+  pid: 68552,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:50.604] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 93474816,
+  path: '/usr/bin/node',
+  pid: 68558,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:50.608] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 68775936,
+  path: '/usr/bin/node',
+  pid: 68553,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:50.644] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 75476992,
+  path: '/usr/bin/node',
+  pid: 68583,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:50.652] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 88354816,
+  path: '/usr/bin/node',
+  pid: 68555,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:50.653] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 70197248,
+  path: '/usr/bin/node',
+  pid: 68551,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:50.668] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 85815296,
+  path: '/usr/bin/node',
+  pid: 68556,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:50.681] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 81383424,
+  path: '/usr/bin/node',
+  pid: 68554,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:50.697] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 95830016,
+  path: '/usr/bin/node',
+  pid: 68558,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:50.715] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 93532160,
+  path: '/usr/bin/node',
+  pid: 68552,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:50.745] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 70148096,
+  path: '/usr/bin/node',
+  pid: 68553,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:50.760] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 77484032,
+  path: '/usr/bin/node',
+  pid: 68583,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:50.781] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 89382912,
+  path: '/usr/bin/node',
+  pid: 68555,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:50.797] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 70197248,
+  path: '/usr/bin/node',
+  pid: 68551,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:50.815] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 86044672,
+  path: '/usr/bin/node',
+  pid: 68556,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:50.845] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 76587008,
+  path: '/usr/bin/node',
+  pid: 68554,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:50.926] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 95035392,
+  path: '/usr/bin/node',
+  pid: 68558,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:50.934] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 71483392,
+  path: '/usr/bin/node',
+  pid: 68553,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.029] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 73355264,
+  path: '/usr/bin/node',
+  pid: 68552,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.074] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 91734016,
+  path: '/usr/bin/node',
+  pid: 68555,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.128] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 85549056,
+  path: '/usr/bin/node',
+  pid: 68556,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.136] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 77205504,
+  path: '/usr/bin/node',
+  pid: 68583,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.170] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 69812224,
+  path: '/usr/bin/node',
+  pid: 68551,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.181] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 77434880,
+  path: '/usr/bin/node',
+  pid: 68554,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.214] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 96067584,
+  path: '/usr/bin/node',
+  pid: 68558,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.218] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 71659520,
+  path: '/usr/bin/node',
+  pid: 68553,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.255] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 86216704,
+  path: '/usr/bin/node',
+  pid: 68555,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.282] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 73740288,
+  path: '/usr/bin/node',
+  pid: 68552,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.293] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 77938688,
+  path: '/usr/bin/node',
+  pid: 68583,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.305] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 86282240,
+  path: '/usr/bin/node',
+  pid: 68556,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.317] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 96153600,
+  path: '/usr/bin/node',
+  pid: 68558,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.329] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 72101888,
+  path: '/usr/bin/node',
+  pid: 68553,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.336] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 77197312,
+  path: '/usr/bin/node',
+  pid: 68554,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.349] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 70733824,
+  path: '/usr/bin/node',
+  pid: 68551,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.361] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 85364736,
+  path: '/usr/bin/node',
+  pid: 68555,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.368] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 74440704,
+  path: '/usr/bin/node',
+  pid: 68552,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.378] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 80625664,
+  path: '/usr/bin/node',
+  pid: 68583,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.390] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 86265856,
+  path: '/usr/bin/node',
+  pid: 68556,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.402] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 96288768,
+  path: '/usr/bin/node',
+  pid: 68558,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.415] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 72232960,
+  path: '/usr/bin/node',
+  pid: 68553,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.428] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 76935168,
+  path: '/usr/bin/node',
+  pid: 68554,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.439] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 70574080,
+  path: '/usr/bin/node',
+  pid: 68551,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.446] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 86114304,
+  path: '/usr/bin/node',
+  pid: 68555,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.454] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 74227712,
+  path: '/usr/bin/node',
+  pid: 68552,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.464] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 81833984,
+  path: '/usr/bin/node',
+  pid: 68583,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.476] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 86790144,
+  path: '/usr/bin/node',
+  pid: 68556,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:46:51.484] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 96329728,
+  path: '/usr/bin/node',
+  pid: 68558,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:47:01.421] [INFO] info - [39m{
+  args: [ 'start', '--port=8080', '--mode=CLUSTER' ],
+  so: 'linux',
+  node: 'v18.12.1',
+  memory: 72912896,
+  path: '/usr/bin/node',
+  pid: 68553,
+  cwd: '/run/media/adrianabadin/code/loginFeat'
+}
+[32m[2023-02-14T18:53:41.130] [INFO] info - [39mWorker Created PID: 106492
+[32m[2023-02-14T18:53:41.163] [INFO] info - [39mWorker Created PID: 106494
+[32m[2023-02-14T18:53:41.177] [INFO] info - [39mWorker Created PID: 106495
+[32m[2023-02-14T18:53:41.190] [INFO] info - [39mWorker Created PID: 106501
+[32m[2023-02-14T18:53:41.201] [INFO] info - [39mWorker Created PID: 106502
+[32m[2023-02-14T18:53:41.217] [INFO] info - [39mWorker Created PID: 106503
+[32m[2023-02-14T18:53:41.247] [INFO] info - [39mWorker Created PID: 106504
+[32m[2023-02-14T18:53:41.263] [INFO] info - [39mWorker Created PID: 106512
+[32m[2023-02-14T18:54:00.475] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T18:54:00.487] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T18:54:00.479] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T18:54:00.581] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T18:54:00.602] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T18:54:00.613] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T18:54:00.643] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T18:54:00.720] [INFO] info - [39mListening on 8080
+[32m[2023-02-14T18:54:03.097] [INFO] info - [39mMongo connected
+[32m[2023-02-14T18:54:03.097] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T18:54:03.125] [INFO] info - [39mMongo connected
+[32m[2023-02-14T18:54:03.126] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T18:54:03.163] [INFO] info - [39mMongo connected
+[32m[2023-02-14T18:54:03.163] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T18:54:03.294] [INFO] info - [39mMongo connected
+[32m[2023-02-14T18:54:03.294] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T18:54:03.455] [INFO] info - [39mMongo connected
+[32m[2023-02-14T18:54:03.455] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T18:54:03.526] [INFO] info - [39mMongo connected
+[32m[2023-02-14T18:54:03.526] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T18:54:03.549] [INFO] info - [39mMongo connected
+[32m[2023-02-14T18:54:03.549] [INFO] info - [39mMongo Connected
+[32m[2023-02-14T18:54:04.008] [INFO] info - [39mMongo connected
+[32m[2023-02-14T18:54:04.008] [INFO] info - [39mMongo Connected
+[32m[2023-02-15T14:22:28.741] [INFO] info - [39mFork Mode wroker PID:  4252
+[32m[2023-02-15T14:22:45.900] [INFO] info - [39mListening on 8080
+[32m[2023-02-15T14:22:49.564] [INFO] info - [39mMongo connected
+[32m[2023-02-15T14:22:49.564] [INFO] info - [39mMongo Connected
+[32m[2023-02-15T14:36:01.091] [INFO] info - [39mFork Mode wroker PID:  6642
+[32m[2023-02-15T14:36:11.918] [INFO] info - [39mListening on 8080
+[32m[2023-02-15T14:36:11.923] [INFO] info - [39mMongo Connected
+[32m[2023-02-15T14:36:14.769] [INFO] info - [39mListening on 8080
+[32m[2023-02-15T14:36:16.896] [INFO] info - [39mMongo connected
+[32m[2023-02-15T14:36:16.897] [INFO] info - [39mMongo Connected
+[32m[2023-02-15T14:42:42.505] [INFO] info - [39mFork Mode wroker PID:  8815
+[32m[2023-02-15T14:42:55.159] [INFO] info - [39mListening on 8080
+[32m[2023-02-15T14:42:56.877] [INFO] info - [39mMongo connected
+[32m[2023-02-15T14:42:56.878] [INFO] info - [39mMongo Connected
+[32m[2023-02-15T14:49:44.935] [INFO] info - [39mFork Mode wroker PID:  11348
+[32m[2023-02-15T14:49:47.546] [INFO] info - [39mListening on 8080
+[32m[2023-02-15T14:49:50.741] [INFO] info - [39mMongo connected
+[32m[2023-02-15T14:49:50.742] [INFO] info - [39mMongo Connected
+[32m[2023-02-15T17:16:36.406] [INFO] info - [39mFork Mode wroker PID:  4186
+[32m[2023-02-15T17:16:52.768] [INFO] info - [39mListening on 8080
+[32m[2023-02-15T17:16:54.219] [INFO] info - [39mMongo connected
+[32m[2023-02-15T17:16:54.220] [INFO] info - [39mMongo Connected
