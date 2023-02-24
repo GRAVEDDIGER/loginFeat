@@ -36,14 +36,16 @@ cluster.on('exit', (worker, code) => {
     cluster.fork()
 })
     } else main(PORT, objectLogger)
-} else {
-    if (cluster.isPrimary) {
-        const worker = cluster.fork()
-        objectLogger.info.info('Fork Mode wroker PID: ', worker.process.pid)
-
-        cluster.on('exit', (worker, code) => {
-            objectLogger.error.error(`Worker PID: ${worker.process.pid} exited with code: `, code)
-            cluster.fork()
-        })
 } else main(PORT, objectLogger)
-}
+
+// else {
+//     if (cluster.isPrimary) {
+//         const worker = cluster.fork()
+//         objectLogger.info.info('Fork Mode wroker PID: ', worker.process.pid)
+
+//         cluster.on('exit', (worker, code) => {
+//             objectLogger.error.error(`Worker PID: ${worker.process.pid} exited with code: `, code)
+//             cluster.fork()
+//         })
+// } else main(PORT, objectLogger)
+// }

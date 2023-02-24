@@ -2,7 +2,7 @@ function main(PORT, logger) {
 // //////////////////
 //  Imports       //
 // //////////////////
-const cluster = require('cluster')
+// const cluster = require('cluster')
 const express = require('express')
 
 const app = express()
@@ -12,7 +12,7 @@ const initializeSockets = require('./socket/sockets')
 const sessionMiddleware = require('./middlewares/session')
 const middlewares = require('./middlewares/middlewares')
 
-if (!cluster.isPrimary) {
+// if (!cluster.isPrimary) {
 const server = app.listen(PORT, () => {
   logger.info.info(`Listening on ${PORT}`)
 })
@@ -34,5 +34,5 @@ app.use((req, res) => { // ruta default desvia a login
 // /////////////////////
 initializeSockets(server, passportConfigObject, sessionMiddleware, logger)
 }
-}
+// }
 module.exports = main
