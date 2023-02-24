@@ -1,3 +1,407 @@
 [91m[2023-02-15T14:36:11.924] [ERROR] error - [39mUnable to connect DB
 [91m[2023-02-15T14:36:11.976] [ERROR] error - [39mWorker PID: 6642 exited with code:  1
 [91m[2023-02-15T15:00:26.178] [ERROR] error - [39mWorker PID: 11348 exited with code:  null
+[91m[2023-02-16T15:54:06.807] [ERROR] error - [39mWorker PID: 49254 exited with code:  1
+[91m[2023-02-16T15:54:10.043] [ERROR] error - [39mWorker PID: 49313 exited with code:  1
+[91m[2023-02-16T15:54:13.564] [ERROR] error - [39mWorker PID: 49336 exited with code:  1
+[91m[2023-02-16T15:54:16.579] [ERROR] error - [39mWorker PID: 49354 exited with code:  1
+[91m[2023-02-16T15:54:19.411] [ERROR] error - [39mWorker PID: 49366 exited with code:  1
+[91m[2023-02-16T15:54:22.220] [ERROR] error - [39mWorker PID: 49389 exited with code:  1
+[91m[2023-02-16T15:54:25.001] [ERROR] error - [39mWorker PID: 49432 exited with code:  1
+[91m[2023-02-16T15:54:27.697] [ERROR] error - [39mWorker PID: 49460 exited with code:  1
+[91m[2023-02-16T15:54:30.917] [ERROR] error - [39mWorker PID: 49467 exited with code:  1
+[91m[2023-02-16T15:54:34.081] [ERROR] error - [39mWorker PID: 49493 exited with code:  1
+[91m[2023-02-16T15:54:36.935] [ERROR] error - [39mWorker PID: 49517 exited with code:  1
+[91m[2023-02-16T15:54:39.752] [ERROR] error - [39mWorker PID: 49527 exited with code:  1
+[91m[2023-02-16T17:42:58.007] [ERROR] error - [39mWorker PID: 49550 exited with code:  1
+[91m[2023-02-16T17:43:05.217] [ERROR] error - [39mWorker PID: 49850 exited with code:  1
+[91m[2023-02-16T17:43:08.461] [ERROR] error - [39mWorker PID: 49906 exited with code:  1
+[91m[2023-02-16T17:43:19.033] [ERROR] error - [39mWorker PID: 49958 exited with code:  1
+[91m[2023-02-16T17:43:34.740] [ERROR] error - [39mWorker PID: 50018 exited with code:  1
+[91m[2023-02-16T17:43:39.147] [ERROR] error - [39mWorker PID: 50068 exited with code:  1
+[91m[2023-02-16T17:43:42.003] [ERROR] error - [39mWorker PID: 50097 exited with code:  1
+[91m[2023-02-16T17:43:44.891] [ERROR] error - [39mWorker PID: 50117 exited with code:  1
+[91m[2023-02-16T17:43:47.751] [ERROR] error - [39mWorker PID: 50125 exited with code:  1
+[91m[2023-02-16T17:43:50.508] [ERROR] error - [39mWorker PID: 50145 exited with code:  1
+[91m[2023-02-16T17:43:53.382] [ERROR] error - [39mWorker PID: 50152 exited with code:  1
+[91m[2023-02-16T17:43:56.200] [ERROR] error - [39mWorker PID: 50183 exited with code:  1
+[91m[2023-02-16T17:43:58.943] [ERROR] error - [39mWorker PID: 50227 exited with code:  1
+[91m[2023-02-16T17:44:01.724] [ERROR] error - [39mWorker PID: 50253 exited with code:  1
+[91m[2023-02-16T17:44:04.801] [ERROR] error - [39mWorker PID: 50267 exited with code:  1
+[91m[2023-02-16T17:44:07.506] [ERROR] error - [39mWorker PID: 50279 exited with code:  1
+[91m[2023-02-16T17:44:10.370] [ERROR] error - [39mWorker PID: 50298 exited with code:  1
+[91m[2023-02-16T17:44:13.464] [ERROR] error - [39mWorker PID: 50306 exited with code:  1
+[91m[2023-02-16T17:44:16.249] [ERROR] error - [39mWorker PID: 50328 exited with code:  1
+[91m[2023-02-16T17:44:19.019] [ERROR] error - [39mWorker PID: 50342 exited with code:  1
+[91m[2023-02-16T17:44:21.761] [ERROR] error - [39mWorker PID: 50358 exited with code:  1
+[91m[2023-02-16T17:44:24.798] [ERROR] error - [39mWorker PID: 50373 exited with code:  1
+[91m[2023-02-16T17:44:27.610] [ERROR] error - [39mWorker PID: 50394 exited with code:  1
+[91m[2023-02-16T17:44:30.436] [ERROR] error - [39mWorker PID: 50414 exited with code:  1
+[91m[2023-02-16T17:44:33.330] [ERROR] error - [39mWorker PID: 50421 exited with code:  1
+[91m[2023-02-16T17:44:36.108] [ERROR] error - [39mWorker PID: 50445 exited with code:  1
+[91m[2023-02-16T17:44:38.874] [ERROR] error - [39mWorker PID: 50459 exited with code:  1
+[91m[2023-02-16T17:44:41.614] [ERROR] error - [39mWorker PID: 50471 exited with code:  1
+[91m[2023-02-16T17:44:44.488] [ERROR] error - [39mWorker PID: 50486 exited with code:  1
+[91m[2023-02-16T17:44:47.522] [ERROR] error - [39mWorker PID: 50507 exited with code:  1
+[91m[2023-02-16T17:44:50.261] [ERROR] error - [39mWorker PID: 50530 exited with code:  1
+[91m[2023-02-16T17:44:53.028] [ERROR] error - [39mWorker PID: 50537 exited with code:  1
+[91m[2023-02-16T17:44:55.866] [ERROR] error - [39mWorker PID: 50568 exited with code:  1
+[91m[2023-02-16T17:44:58.747] [ERROR] error - [39mWorker PID: 50608 exited with code:  1
+[91m[2023-02-16T17:45:01.597] [ERROR] error - [39mWorker PID: 50632 exited with code:  1
+[91m[2023-02-16T17:45:04.460] [ERROR] error - [39mWorker PID: 50646 exited with code:  1
+[91m[2023-02-16T17:45:07.403] [ERROR] error - [39mWorker PID: 50659 exited with code:  1
+[91m[2023-02-16T17:45:10.165] [ERROR] error - [39mWorker PID: 50681 exited with code:  1
+[91m[2023-02-16T17:45:12.932] [ERROR] error - [39mWorker PID: 50688 exited with code:  1
+[91m[2023-02-16T17:45:15.590] [ERROR] error - [39mWorker PID: 50710 exited with code:  1
+[91m[2023-02-16T17:45:18.335] [ERROR] error - [39mWorker PID: 50717 exited with code:  1
+[91m[2023-02-16T17:45:21.084] [ERROR] error - [39mWorker PID: 50739 exited with code:  1
+[91m[2023-02-16T17:45:23.831] [ERROR] error - [39mWorker PID: 50753 exited with code:  1
+[91m[2023-02-16T17:45:26.568] [ERROR] error - [39mWorker PID: 50766 exited with code:  1
+[91m[2023-02-16T17:45:29.271] [ERROR] error - [39mWorker PID: 50780 exited with code:  1
+[91m[2023-02-16T17:45:31.941] [ERROR] error - [39mWorker PID: 50792 exited with code:  1
+[91m[2023-02-16T17:45:34.634] [ERROR] error - [39mWorker PID: 50814 exited with code:  1
+[91m[2023-02-16T17:45:37.335] [ERROR] error - [39mWorker PID: 50821 exited with code:  1
+[91m[2023-02-16T17:45:40.230] [ERROR] error - [39mWorker PID: 50840 exited with code:  1
+[91m[2023-02-16T17:45:42.956] [ERROR] error - [39mWorker PID: 50847 exited with code:  1
+[91m[2023-02-16T17:45:45.667] [ERROR] error - [39mWorker PID: 50875 exited with code:  1
+[91m[2023-02-16T17:45:48.426] [ERROR] error - [39mWorker PID: 50883 exited with code:  1
+[91m[2023-02-16T17:45:51.163] [ERROR] error - [39mWorker PID: 50906 exited with code:  1
+[91m[2023-02-16T17:45:53.926] [ERROR] error - [39mWorker PID: 50920 exited with code:  1
+[91m[2023-02-16T17:45:56.581] [ERROR] error - [39mWorker PID: 50932 exited with code:  1
+[91m[2023-02-16T17:45:59.382] [ERROR] error - [39mWorker PID: 50984 exited with code:  1
+[91m[2023-02-16T17:46:02.137] [ERROR] error - [39mWorker PID: 50996 exited with code:  1
+[91m[2023-02-16T17:46:04.818] [ERROR] error - [39mWorker PID: 51018 exited with code:  1
+[91m[2023-02-16T17:46:07.699] [ERROR] error - [39mWorker PID: 51026 exited with code:  1
+[91m[2023-02-16T17:46:10.600] [ERROR] error - [39mWorker PID: 51045 exited with code:  1
+[91m[2023-02-16T17:46:13.369] [ERROR] error - [39mWorker PID: 51052 exited with code:  1
+[91m[2023-02-16T17:46:16.060] [ERROR] error - [39mWorker PID: 51074 exited with code:  1
+[91m[2023-02-16T17:46:18.824] [ERROR] error - [39mWorker PID: 51090 exited with code:  1
+[91m[2023-02-16T17:46:21.560] [ERROR] error - [39mWorker PID: 51102 exited with code:  1
+[91m[2023-02-16T17:46:24.312] [ERROR] error - [39mWorker PID: 51118 exited with code:  1
+[91m[2023-02-16T17:46:27.121] [ERROR] error - [39mWorker PID: 51133 exited with code:  1
+[91m[2023-02-16T17:46:29.756] [ERROR] error - [39mWorker PID: 51155 exited with code:  1
+[91m[2023-02-16T17:46:32.489] [ERROR] error - [39mWorker PID: 51162 exited with code:  1
+[91m[2023-02-16T17:46:35.194] [ERROR] error - [39mWorker PID: 51181 exited with code:  1
+[91m[2023-02-16T17:46:38.078] [ERROR] error - [39mWorker PID: 51188 exited with code:  1
+[91m[2023-02-16T17:46:40.773] [ERROR] error - [39mWorker PID: 51210 exited with code:  1
+[91m[2023-02-16T17:46:43.517] [ERROR] error - [39mWorker PID: 51220 exited with code:  1
+[91m[2023-02-16T17:46:46.184] [ERROR] error - [39mWorker PID: 51238 exited with code:  1
+[91m[2023-02-16T17:46:48.830] [ERROR] error - [39mWorker PID: 51252 exited with code:  1
+[91m[2023-02-16T17:46:51.588] [ERROR] error - [39mWorker PID: 51264 exited with code:  1
+[91m[2023-02-16T17:46:54.371] [ERROR] error - [39mWorker PID: 51278 exited with code:  1
+[91m[2023-02-16T17:46:57.245] [ERROR] error - [39mWorker PID: 51297 exited with code:  1
+[91m[2023-02-16T17:46:59.939] [ERROR] error - [39mWorker PID: 51351 exited with code:  1
+[91m[2023-02-16T17:47:02.743] [ERROR] error - [39mWorker PID: 51358 exited with code:  1
+[91m[2023-02-16T17:47:05.575] [ERROR] error - [39mWorker PID: 51380 exited with code:  1
+[91m[2023-02-16T17:47:08.417] [ERROR] error - [39mWorker PID: 51392 exited with code:  1
+[91m[2023-02-16T17:47:11.201] [ERROR] error - [39mWorker PID: 51414 exited with code:  1
+[91m[2023-02-16T17:47:13.929] [ERROR] error - [39mWorker PID: 51428 exited with code:  1
+[91m[2023-02-16T17:47:16.867] [ERROR] error - [39mWorker PID: 51440 exited with code:  1
+[91m[2023-02-16T17:47:19.625] [ERROR] error - [39mWorker PID: 51483 exited with code:  1
+[91m[2023-02-16T17:47:22.347] [ERROR] error - [39mWorker PID: 51498 exited with code:  1
+[91m[2023-02-16T17:47:25.072] [ERROR] error - [39mWorker PID: 51517 exited with code:  1
+[91m[2023-02-16T17:47:27.814] [ERROR] error - [39mWorker PID: 51525 exited with code:  1
+[91m[2023-02-16T17:47:30.527] [ERROR] error - [39mWorker PID: 51547 exited with code:  1
+[91m[2023-02-16T17:47:32.896] [ERROR] error - [39mWorker PID: 51554 exited with code:  1
+[91m[2023-02-16T17:47:35.609] [ERROR] error - [39mWorker PID: 51576 exited with code:  1
+[91m[2023-02-16T17:47:38.461] [ERROR] error - [39mWorker PID: 51583 exited with code:  1
+[91m[2023-02-16T17:47:41.217] [ERROR] error - [39mWorker PID: 51605 exited with code:  1
+[91m[2023-02-16T17:47:44.018] [ERROR] error - [39mWorker PID: 51619 exited with code:  1
+[91m[2023-02-16T17:47:47.106] [ERROR] error - [39mWorker PID: 51632 exited with code:  1
+[91m[2023-02-16T17:47:49.806] [ERROR] error - [39mWorker PID: 51655 exited with code:  1
+[91m[2023-02-16T17:47:52.530] [ERROR] error - [39mWorker PID: 51664 exited with code:  1
+[91m[2023-02-16T17:47:55.338] [ERROR] error - [39mWorker PID: 51685 exited with code:  1
+[91m[2023-02-16T17:47:58.103] [ERROR] error - [39mWorker PID: 51708 exited with code:  1
+[91m[2023-02-16T17:48:00.789] [ERROR] error - [39mWorker PID: 51752 exited with code:  1
+[91m[2023-02-16T17:48:03.604] [ERROR] error - [39mWorker PID: 51761 exited with code:  1
+[91m[2023-02-16T17:48:06.297] [ERROR] error - [39mWorker PID: 51779 exited with code:  1
+[91m[2023-02-16T17:48:08.898] [ERROR] error - [39mWorker PID: 51793 exited with code:  1
+[91m[2023-02-16T17:48:11.648] [ERROR] error - [39mWorker PID: 51805 exited with code:  1
+[91m[2023-02-16T17:48:14.407] [ERROR] error - [39mWorker PID: 51819 exited with code:  1
+[91m[2023-02-16T17:48:17.188] [ERROR] error - [39mWorker PID: 51833 exited with code:  1
+[91m[2023-02-16T17:48:20.723] [ERROR] error - [39mWorker PID: 51857 exited with code:  1
+[91m[2023-02-16T17:48:23.445] [ERROR] error - [39mWorker PID: 51869 exited with code:  1
+[91m[2023-02-16T17:48:26.221] [ERROR] error - [39mWorker PID: 51890 exited with code:  1
+[91m[2023-02-16T17:48:28.956] [ERROR] error - [39mWorker PID: 51907 exited with code:  1
+[91m[2023-02-16T17:48:31.657] [ERROR] error - [39mWorker PID: 51920 exited with code:  1
+[91m[2023-02-16T17:48:34.569] [ERROR] error - [39mWorker PID: 51934 exited with code:  1
+[91m[2023-02-16T17:48:37.411] [ERROR] error - [39mWorker PID: 51946 exited with code:  1
+[91m[2023-02-16T17:48:40.262] [ERROR] error - [39mWorker PID: 51965 exited with code:  1
+[91m[2023-02-16T17:48:42.975] [ERROR] error - [39mWorker PID: 51972 exited with code:  1
+[91m[2023-02-16T17:48:45.714] [ERROR] error - [39mWorker PID: 51995 exited with code:  1
+[91m[2023-02-16T17:48:48.432] [ERROR] error - [39mWorker PID: 52003 exited with code:  1
+[91m[2023-02-16T17:48:51.124] [ERROR] error - [39mWorker PID: 52025 exited with code:  1
+[91m[2023-02-16T17:48:54.043] [ERROR] error - [39mWorker PID: 52041 exited with code:  1
+[91m[2023-02-16T17:48:56.895] [ERROR] error - [39mWorker PID: 52053 exited with code:  1
+[91m[2023-02-16T17:48:59.580] [ERROR] error - [39mWorker PID: 52110 exited with code:  1
+[91m[2023-02-16T17:49:02.432] [ERROR] error - [39mWorker PID: 52117 exited with code:  1
+[91m[2023-02-16T17:49:05.166] [ERROR] error - [39mWorker PID: 52137 exited with code:  1
+[91m[2023-02-16T17:49:08.143] [ERROR] error - [39mWorker PID: 52146 exited with code:  1
+[91m[2023-02-16T17:49:11.345] [ERROR] error - [39mWorker PID: 52181 exited with code:  1
+[91m[2023-02-16T17:49:14.560] [ERROR] error - [39mWorker PID: 52212 exited with code:  1
+[91m[2023-02-16T17:51:44.269] [ERROR] error - [39mWorker PID: 52598 exited with code:  1
+[91m[2023-02-16T17:53:25.658] [ERROR] error - [39mWorker PID: 52799 exited with code:  1
+[91m[2023-02-16T17:53:28.065] [ERROR] error - [39mWorker PID: 52830 exited with code:  1
+[91m[2023-02-16T17:54:03.666] [ERROR] error - [39mWorker PID: 52959 exited with code:  1
+[91m[2023-02-16T18:02:38.162] [ERROR] error - [39mWorker PID: 54112 exited with code:  1
+[91m[2023-02-16T18:02:40.538] [ERROR] error - [39mWorker PID: 54142 exited with code:  1
+[91m[2023-02-16T18:03:23.292] [ERROR] error - [39mWorker PID: 54270 exited with code:  1
+[91m[2023-02-18T11:06:21.050] [ERROR] error - [39mWorker PID: 6087 exited with code:  1
+[91m[2023-02-18T11:06:22.324] [ERROR] error - [39mWorker PID: 6135 exited with code:  1
+[91m[2023-02-18T11:06:23.598] [ERROR] error - [39mWorker PID: 6153 exited with code:  1
+[91m[2023-02-18T11:16:09.169] [ERROR] error - [39mWorker PID: 7525 exited with code:  1
+[91m[2023-02-18T11:16:12.458] [ERROR] error - [39mWorker PID: 7707 exited with code:  1
+[91m[2023-02-18T11:16:20.983] [ERROR] error - [39mWorker PID: 7858 exited with code:  1
+[91m[2023-02-18T11:16:24.254] [ERROR] error - [39mWorker PID: 7924 exited with code:  1
+[91m[2023-02-18T11:16:27.690] [ERROR] error - [39mWorker PID: 7967 exited with code:  1
+[91m[2023-02-18T11:16:30.723] [ERROR] error - [39mWorker PID: 8029 exited with code:  1
+[91m[2023-02-18T11:16:33.977] [ERROR] error - [39mWorker PID: 8085 exited with code:  1
+[91m[2023-02-18T11:16:37.238] [ERROR] error - [39mWorker PID: 8126 exited with code:  1
+[91m[2023-02-18T11:16:41.028] [ERROR] error - [39mWorker PID: 8182 exited with code:  1
+[91m[2023-02-18T11:16:43.868] [ERROR] error - [39mWorker PID: 8236 exited with code:  1
+[91m[2023-02-18T11:16:48.026] [ERROR] error - [39mWorker PID: 8280 exited with code:  1
+[91m[2023-02-18T11:19:20.957] [ERROR] error - [39mWorker PID: 8861 exited with code:  1
+[91m[2023-02-18T11:19:24.126] [ERROR] error - [39mWorker PID: 8966 exited with code:  1
+[91m[2023-02-18T11:20:34.368] [ERROR] error - [39mWorker PID: 9239 exited with code:  1
+[91m[2023-02-18T11:20:37.433] [ERROR] error - [39mWorker PID: 9377 exited with code:  1
+[91m[2023-02-18T11:22:30.993] [ERROR] error - [39mWorker PID: 9711 exited with code:  1
+[91m[2023-02-18T11:22:34.044] [ERROR] error - [39mWorker PID: 9783 exited with code:  1
+[91m[2023-02-18T19:54:45.808] [ERROR] error - [39mWorker PID: 21514 exited with code:  1
+[91m[2023-02-18T19:54:48.565] [ERROR] error - [39mWorker PID: 21585 exited with code:  1
+[91m[2023-02-18T19:54:50.865] [ERROR] error - [39mWorker PID: 21613 exited with code:  1
+[91m[2023-02-18T19:54:53.107] [ERROR] error - [39mWorker PID: 21620 exited with code:  1
+[91m[2023-02-18T19:54:55.284] [ERROR] error - [39mWorker PID: 21644 exited with code:  1
+[91m[2023-02-18T19:54:57.685] [ERROR] error - [39mWorker PID: 21651 exited with code:  1
+[91m[2023-02-18T19:55:00.422] [ERROR] error - [39mWorker PID: 21686 exited with code:  1
+[91m[2023-02-18T19:57:07.306] [ERROR] error - [39mWorker PID: 22004 exited with code:  1
+[91m[2023-02-18T19:57:56.495] [ERROR] error - [39mWorker PID: 22100 exited with code:  1
+[91m[2023-02-19T00:05:07.874] [ERROR] error - [39mWorker PID: 22591 exited with code:  1
+[91m[2023-02-19T00:05:10.733] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:05:10.766] [ERROR] error - [39mWorker PID: 23524 exited with code:  1
+[91m[2023-02-19T00:05:13.274] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:05:13.315] [ERROR] error - [39mWorker PID: 23548 exited with code:  1
+[91m[2023-02-19T00:05:15.835] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:05:15.867] [ERROR] error - [39mWorker PID: 23559 exited with code:  1
+[91m[2023-02-19T00:05:18.443] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:05:18.473] [ERROR] error - [39mWorker PID: 23581 exited with code:  1
+[91m[2023-02-19T00:05:21.028] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:05:21.066] [ERROR] error - [39mWorker PID: 23591 exited with code:  1
+[91m[2023-02-19T00:05:23.516] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:05:23.548] [ERROR] error - [39mWorker PID: 23616 exited with code:  1
+[91m[2023-02-19T00:05:26.080] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:05:26.111] [ERROR] error - [39mWorker PID: 23632 exited with code:  1
+[91m[2023-02-19T00:05:28.658] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:05:28.690] [ERROR] error - [39mWorker PID: 23654 exited with code:  1
+[91m[2023-02-19T00:05:31.111] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:05:31.141] [ERROR] error - [39mWorker PID: 23662 exited with code:  1
+[91m[2023-02-19T00:05:33.624] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:05:33.654] [ERROR] error - [39mWorker PID: 23686 exited with code:  1
+[91m[2023-02-19T00:05:36.072] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:05:36.105] [ERROR] error - [39mWorker PID: 23693 exited with code:  1
+[91m[2023-02-19T00:05:38.553] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:05:38.584] [ERROR] error - [39mWorker PID: 23715 exited with code:  1
+[91m[2023-02-19T00:05:41.199] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:05:41.231] [ERROR] error - [39mWorker PID: 23722 exited with code:  1
+[91m[2023-02-19T00:05:43.770] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:05:43.800] [ERROR] error - [39mWorker PID: 23746 exited with code:  1
+[91m[2023-02-19T00:05:46.196] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:05:46.227] [ERROR] error - [39mWorker PID: 23757 exited with code:  1
+[91m[2023-02-19T00:05:48.791] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:05:48.829] [ERROR] error - [39mWorker PID: 23779 exited with code:  1
+[91m[2023-02-19T00:05:51.384] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:05:51.417] [ERROR] error - [39mWorker PID: 23827 exited with code:  1
+[91m[2023-02-19T00:05:54.025] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:05:54.063] [ERROR] error - [39mWorker PID: 23851 exited with code:  1
+[91m[2023-02-19T00:05:56.571] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:05:56.614] [ERROR] error - [39mWorker PID: 23898 exited with code:  1
+[91m[2023-02-19T00:05:59.119] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:05:59.149] [ERROR] error - [39mWorker PID: 23935 exited with code:  1
+[91m[2023-02-19T00:06:01.666] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:06:01.706] [ERROR] error - [39mWorker PID: 23969 exited with code:  1
+[91m[2023-02-19T00:06:04.251] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:06:04.292] [ERROR] error - [39mWorker PID: 23985 exited with code:  1
+[91m[2023-02-19T00:06:06.889] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:06:06.923] [ERROR] error - [39mWorker PID: 24005 exited with code:  1
+[91m[2023-02-19T00:06:09.492] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:06:09.525] [ERROR] error - [39mWorker PID: 24017 exited with code:  1
+[91m[2023-02-19T00:06:11.939] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:06:11.969] [ERROR] error - [39mWorker PID: 24031 exited with code:  1
+[91m[2023-02-19T00:06:14.391] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:06:14.420] [ERROR] error - [39mWorker PID: 24045 exited with code:  1
+[91m[2023-02-19T00:06:16.934] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:06:16.965] [ERROR] error - [39mWorker PID: 24059 exited with code:  1
+[91m[2023-02-19T00:06:19.383] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:06:19.419] [ERROR] error - [39mWorker PID: 24071 exited with code:  1
+[91m[2023-02-19T00:06:21.907] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:06:21.940] [ERROR] error - [39mWorker PID: 24085 exited with code:  1
+[91m[2023-02-19T00:06:24.415] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:06:24.454] [ERROR] error - [39mWorker PID: 24106 exited with code:  1
+[91m[2023-02-19T00:06:26.936] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:06:26.966] [ERROR] error - [39mWorker PID: 24122 exited with code:  1
+[91m[2023-02-19T00:06:29.492] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:06:29.524] [ERROR] error - [39mWorker PID: 24134 exited with code:  1
+[91m[2023-02-19T00:06:32.131] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:06:32.163] [ERROR] error - [39mWorker PID: 24148 exited with code:  1
+[91m[2023-02-19T00:06:34.587] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:06:34.618] [ERROR] error - [39mWorker PID: 24169 exited with code:  1
+[91m[2023-02-19T00:06:37.174] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:06:37.205] [ERROR] error - [39mWorker PID: 24183 exited with code:  1
+[91m[2023-02-19T00:06:39.820] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:06:39.862] [ERROR] error - [39mWorker PID: 24197 exited with code:  1
+[91m[2023-02-19T00:06:42.565] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:06:42.610] [ERROR] error - [39mWorker PID: 24254 exited with code:  1
+[91m[2023-02-19T00:06:45.323] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:06:45.353] [ERROR] error - [39mWorker PID: 24295 exited with code:  1
+[91m[2023-02-19T00:06:47.876] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:06:47.915] [ERROR] error - [39mWorker PID: 24324 exited with code:  1
+[91m[2023-02-19T00:06:50.560] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:06:50.600] [ERROR] error - [39mWorker PID: 24331 exited with code:  1
+[91m[2023-02-19T00:06:53.188] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:06:53.219] [ERROR] error - [39mWorker PID: 24356 exited with code:  1
+[91m[2023-02-19T00:06:55.813] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:06:55.844] [ERROR] error - [39mWorker PID: 24366 exited with code:  1
+[91m[2023-02-19T00:06:58.335] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:06:58.367] [ERROR] error - [39mWorker PID: 24394 exited with code:  1
+[91m[2023-02-19T00:07:00.855] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:07:00.887] [ERROR] error - [39mWorker PID: 24428 exited with code:  1
+[91m[2023-02-19T00:07:03.395] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:07:03.426] [ERROR] error - [39mWorker PID: 24458 exited with code:  1
+[91m[2023-02-19T00:07:05.942] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:07:05.974] [ERROR] error - [39mWorker PID: 24467 exited with code:  1
+[91m[2023-02-19T00:07:08.455] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:07:08.487] [ERROR] error - [39mWorker PID: 24489 exited with code:  1
+[91m[2023-02-19T00:07:10.967] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:07:10.997] [ERROR] error - [39mWorker PID: 24498 exited with code:  1
+[91m[2023-02-19T00:07:13.488] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:07:13.520] [ERROR] error - [39mWorker PID: 24522 exited with code:  1
+[91m[2023-02-19T00:07:15.929] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:07:15.958] [ERROR] error - [39mWorker PID: 24529 exited with code:  1
+[91m[2023-02-19T00:07:18.455] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:07:18.491] [ERROR] error - [39mWorker PID: 24553 exited with code:  1
+[91m[2023-02-19T00:07:20.987] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:07:21.028] [ERROR] error - [39mWorker PID: 24560 exited with code:  1
+[91m[2023-02-19T00:07:23.464] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:07:23.496] [ERROR] error - [39mWorker PID: 24584 exited with code:  1
+[91m[2023-02-19T00:07:26.387] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:07:26.424] [ERROR] error - [39mWorker PID: 24593 exited with code:  1
+[91m[2023-02-19T00:07:28.968] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:07:28.999] [ERROR] error - [39mWorker PID: 24634 exited with code:  1
+[91m[2023-02-19T00:07:31.613] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-19T00:07:31.724] [ERROR] error - [39mWorker PID: 24668 exited with code:  1
+[91m[2023-02-19T10:36:45.205] [ERROR] error - [39mWorker PID: 24701 exited with code:  null
+[91m[2023-02-19T23:16:08.787] [ERROR] error - [39mWorker PID: 20478 exited with code:  1
+[91m[2023-02-19T23:16:11.779] [ERROR] error - [39mWorker PID: 20550 exited with code:  1
+[91m[2023-02-19T23:16:14.860] [ERROR] error - [39mWorker PID: 20613 exited with code:  1
+[91m[2023-02-19T23:16:17.242] [ERROR] error - [39mWorker PID: 20674 exited with code:  1
+[91m[2023-02-19T23:16:19.926] [ERROR] error - [39mWorker PID: 20688 exited with code:  1
+[91m[2023-02-19T23:16:22.330] [ERROR] error - [39mWorker PID: 20746 exited with code:  1
+[91m[2023-02-20T23:43:48.655] [ERROR] error - [39mWorker PID: 21556 exited with code:  1
+[91m[2023-02-20T23:43:58.129] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:43:58.172] [ERROR] error - [39mWorker PID: 28214 exited with code:  1
+[91m[2023-02-20T23:44:00.392] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:44:00.426] [ERROR] error - [39mWorker PID: 28290 exited with code:  1
+[91m[2023-02-20T23:44:02.573] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:44:02.603] [ERROR] error - [39mWorker PID: 28304 exited with code:  1
+[91m[2023-02-20T23:44:04.804] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:44:04.833] [ERROR] error - [39mWorker PID: 28316 exited with code:  1
+[91m[2023-02-20T23:44:07.133] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:44:07.165] [ERROR] error - [39mWorker PID: 28330 exited with code:  1
+[91m[2023-02-20T23:44:09.449] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:44:09.479] [ERROR] error - [39mWorker PID: 28342 exited with code:  1
+[91m[2023-02-20T23:44:11.701] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:44:11.728] [ERROR] error - [39mWorker PID: 28351 exited with code:  1
+[91m[2023-02-20T23:44:13.865] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:44:13.894] [ERROR] error - [39mWorker PID: 28373 exited with code:  1
+[91m[2023-02-20T23:44:16.210] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:44:16.240] [ERROR] error - [39mWorker PID: 28390 exited with code:  1
+[91m[2023-02-20T23:44:18.760] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:44:18.790] [ERROR] error - [39mWorker PID: 28440 exited with code:  1
+[91m[2023-02-20T23:44:21.700] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:44:21.730] [ERROR] error - [39mWorker PID: 28473 exited with code:  1
+[91m[2023-02-20T23:44:24.845] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:44:24.870] [ERROR] error - [39mWorker PID: 28496 exited with code:  1
+[91m[2023-02-20T23:44:27.161] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:44:27.189] [ERROR] error - [39mWorker PID: 28530 exited with code:  1
+[91m[2023-02-20T23:44:29.413] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:44:29.440] [ERROR] error - [39mWorker PID: 28555 exited with code:  1
+[91m[2023-02-20T23:44:31.572] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:44:31.600] [ERROR] error - [39mWorker PID: 28575 exited with code:  1
+[91m[2023-02-20T23:44:33.707] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:44:33.747] [ERROR] error - [39mWorker PID: 28601 exited with code:  1
+[91m[2023-02-20T23:44:35.847] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:44:35.876] [ERROR] error - [39mWorker PID: 28608 exited with code:  1
+[91m[2023-02-20T23:44:38.264] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:44:38.298] [ERROR] error - [39mWorker PID: 28631 exited with code:  1
+[91m[2023-02-20T23:44:40.750] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:44:40.780] [ERROR] error - [39mWorker PID: 28638 exited with code:  1
+[91m[2023-02-20T23:44:43.215] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:44:43.248] [ERROR] error - [39mWorker PID: 28660 exited with code:  1
+[91m[2023-02-20T23:44:45.790] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:44:45.818] [ERROR] error - [39mWorker PID: 28667 exited with code:  1
+[91m[2023-02-20T23:44:48.281] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:44:48.312] [ERROR] error - [39mWorker PID: 28693 exited with code:  1
+[91m[2023-02-20T23:44:50.792] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:44:50.822] [ERROR] error - [39mWorker PID: 28700 exited with code:  1
+[91m[2023-02-20T23:44:53.260] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:44:53.293] [ERROR] error - [39mWorker PID: 28722 exited with code:  1
+[91m[2023-02-20T23:44:55.859] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:44:55.887] [ERROR] error - [39mWorker PID: 28729 exited with code:  1
+[91m[2023-02-20T23:44:58.316] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:44:58.346] [ERROR] error - [39mWorker PID: 28779 exited with code:  1
+[91m[2023-02-20T23:45:00.790] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:45:00.821] [ERROR] error - [39mWorker PID: 28796 exited with code:  1
+[91m[2023-02-20T23:45:05.804] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:45:05.847] [ERROR] error - [39mWorker PID: 28822 exited with code:  1
+[91m[2023-02-20T23:45:08.923] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:45:08.952] [ERROR] error - [39mWorker PID: 28869 exited with code:  1
+[91m[2023-02-20T23:45:11.566] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:45:11.596] [ERROR] error - [39mWorker PID: 28891 exited with code:  1
+[91m[2023-02-20T23:45:14.407] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:45:14.437] [ERROR] error - [39mWorker PID: 28914 exited with code:  1
+[91m[2023-02-20T23:45:16.913] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:45:16.940] [ERROR] error - [39mWorker PID: 28927 exited with code:  1
+[91m[2023-02-20T23:45:19.261] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:45:19.287] [ERROR] error - [39mWorker PID: 28956 exited with code:  1
+[91m[2023-02-20T23:45:22.132] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:45:22.162] [ERROR] error - [39mWorker PID: 28963 exited with code:  1
+[91m[2023-02-20T23:45:24.692] [ERROR] error - [39mUnable to connect DB
+[91m[2023-02-20T23:45:24.719] [ERROR] error - [39mWorker PID: 28988 exited with code:  1
+[91m[2023-02-21T00:37:42.648] [ERROR] error - [39mWorker PID: 30286 exited with code:  null
+[91m[2023-02-21T00:40:22.794] [ERROR] error - [39mWorker PID: 36502 exited with code:  1
+[91m[2023-02-21T00:40:25.316] [ERROR] error - [39mWorker PID: 36539 exited with code:  1
+[91m[2023-02-21T00:40:28.072] [ERROR] error - [39mWorker PID: 36551 exited with code:  1
+[91m[2023-02-21T00:40:30.437] [ERROR] error - [39mWorker PID: 36569 exited with code:  1
+[91m[2023-02-21T00:40:32.943] [ERROR] error - [39mWorker PID: 36583 exited with code:  1
+[91m[2023-02-21T00:40:35.330] [ERROR] error - [39mWorker PID: 36602 exited with code:  1
+[91m[2023-02-21T00:40:37.789] [ERROR] error - [39mWorker PID: 36615 exited with code:  1
+[91m[2023-02-21T00:40:40.273] [ERROR] error - [39mWorker PID: 36633 exited with code:  1
+[91m[2023-02-21T00:40:42.708] [ERROR] error - [39mWorker PID: 36645 exited with code:  1
+[91m[2023-02-21T00:40:45.208] [ERROR] error - [39mWorker PID: 36663 exited with code:  1
+[91m[2023-02-21T00:40:47.818] [ERROR] error - [39mWorker PID: 36675 exited with code:  1
+[91m[2023-02-21T00:40:50.193] [ERROR] error - [39mWorker PID: 36693 exited with code:  1
+[91m[2023-02-21T00:40:52.616] [ERROR] error - [39mWorker PID: 36705 exited with code:  1
+[91m[2023-02-21T00:40:55.075] [ERROR] error - [39mWorker PID: 36723 exited with code:  1
+[91m[2023-02-21T00:40:57.485] [ERROR] error - [39mWorker PID: 36735 exited with code:  1
+[91m[2023-02-21T00:40:59.875] [ERROR] error - [39mWorker PID: 36755 exited with code:  1
+[91m[2023-02-21T00:41:02.286] [ERROR] error - [39mWorker PID: 36795 exited with code:  1
+[91m[2023-02-21T00:41:05.186] [ERROR] error - [39mWorker PID: 36817 exited with code:  1
+[91m[2023-02-21T00:41:10.022] [ERROR] error - [39mWorker PID: 36839 exited with code:  1
+[91m[2023-02-21T00:41:12.733] [ERROR] error - [39mWorker PID: 36869 exited with code:  1
+[91m[2023-02-21T00:41:15.632] [ERROR] error - [39mWorker PID: 36883 exited with code:  1
+[91m[2023-02-21T00:41:18.154] [ERROR] error - [39mWorker PID: 36899 exited with code:  1
+[91m[2023-02-21T00:41:20.689] [ERROR] error - [39mWorker PID: 36916 exited with code:  1
+[91m[2023-02-21T00:41:23.237] [ERROR] error - [39mWorker PID: 36932 exited with code:  1
+[91m[2023-02-21T00:41:26.213] [ERROR] error - [39mWorker PID: 36954 exited with code:  1
+[91m[2023-02-21T00:41:29.041] [ERROR] error - [39mWorker PID: 36965 exited with code:  1
+[91m[2023-02-21T00:41:31.846] [ERROR] error - [39mWorker PID: 36992 exited with code:  1
+[91m[2023-02-21T00:41:34.574] [ERROR] error - [39mWorker PID: 37005 exited with code:  1
+[91m[2023-02-21T00:41:37.453] [ERROR] error - [39mWorker PID: 37034 exited with code:  1
+[91m[2023-02-21T00:41:40.398] [ERROR] error - [39mWorker PID: 37049 exited with code:  1
+[91m[2023-02-21T00:41:43.313] [ERROR] error - [39mWorker PID: 37067 exited with code:  1
+[91m[2023-02-21T00:41:45.963] [ERROR] error - [39mWorker PID: 37087 exited with code:  1
+[91m[2023-02-21T00:41:48.635] [ERROR] error - [39mWorker PID: 37101 exited with code:  1
+[91m[2023-02-21T00:41:51.390] [ERROR] error - [39mWorker PID: 37120 exited with code:  1
+[91m[2023-02-21T00:41:54.785] [ERROR] error - [39mWorker PID: 37132 exited with code:  1
+[91m[2023-02-21T00:41:57.353] [ERROR] error - [39mWorker PID: 37163 exited with code:  1
+[91m[2023-02-21T00:41:59.733] [ERROR] error - [39mWorker PID: 37182 exited with code:  1
+[91m[2023-02-21T00:42:02.348] [ERROR] error - [39mWorker PID: 37221 exited with code:  1

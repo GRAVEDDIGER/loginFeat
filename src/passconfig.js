@@ -11,49 +11,39 @@ var __awaiter = (this && this.__awaiter) || function(thisArg, _arguments, P, gen
 }
 Object.defineProperty(exports, '__esModule', { value: true })
 const mongoose_1 = require('mongoose')
+const selectorDAO_1 = require('./strategies/selectorDAO')
 const passport = require('passport')
-const local = require('passport-local')
 const bcrypt = require('bcrypt')
 const mongoose = require('mongoose')
-const Schema = mongoose.Schema
 const GoogleStrategy = require('passport-google-oauth20').Strategy
-const LocalStrategy = local.Strategy
-function passportConfigBuilder(schemaObject) {
+const { registerStrategy, loginStrategy } = require('./strategies/local')
+const oAuthModes = require('./strategies/oAuth2')
+// //////////////
+// SCHEMAS
+const googleAuthSchema = new mongoose_1.Schema({
+    username: {
+        type: String,
+        required: true,
+        unique: true
+    },
+    name: String,
+    lastName: String,
+    avatar: String
+})
+function passportConfigBuilder(schemaObject, dbType = 'MONGO') {
     // ////////////////
     // variables
     // ///////////////
-    let userNotFoundMessage
+    const DAOlocal = new selectorDAO_1.DAOSelector(schemaObject, 'localSchema')[dbType] // DaoMongo(schemaObject,"localSchema")
+    const DAOgoa = new selectorDAO_1.DAOSelector(schemaObject, 'goaSchema')[dbType] // DaoMongo(schemaObject,"goaSchema")
+    let userNotFoundMessage = ''
     let incorrectPasswordMessage
     let userAlrreadyExistsMessage
     let crypt = true
     let googleAuthModel
-    // //////////////
-    // SCHEMAS
-    const googleAuthSchema = new mongoose_1.Schema({
-        username: {
-            type: String,
-            required: true,
-            unique: true
-        },
-        name: String,
-        lastName: String,
-        avatar: String
-    })
-    const basicSchema = {
-        username: {
-            type: String,
-            required: true,
-            unique: true
-        },
-        password: {
-            type: String,
-            required: true
-        }
-    }
-    schemaObject.add(basicSchema)
+    // schemaObject.add(basicSchema)
     // ///////////////
     // MODELS
-    const users = mongoose.model('users', new Schema(schemaObject))
     googleAuthModel = mongoose.model('usersGoogleAuthModel', googleAuthSchema)
     // /////////////
     // FUNCTIONS
@@ -80,100 +70,33 @@ function passportConfigBuilder(schemaObject) {
     }
     // ///////BUILDERS///////////////////
     function buildLocalConfig() {
-        registerStrategy(users, userAlrreadyExistsMessage, createHash, schemaObject, crypt)
+        registerStrategy(DAOlocal, userAlrreadyExistsMessage, createHash, crypt)
         passport.serializeUser((user, done) => {
             done(null, user._id)
         })
-        passport.deserializeUser((id, done) => {
-            users.findById(id, done)
-        })
-        loginStrategy(users, userNotFoundMessage, incorrectPasswordMessage, isValid)
+        passport.deserializeUser((id, done) => __awaiter(this, void 0, void 0, function* () {
+            yield DAOlocal.findById(id, done) // users.findById(id, done)
+        }))
+        loginStrategy(DAOlocal, userNotFoundMessage, incorrectPasswordMessage, isValid)
         return this
     }
     function GoogleoAuth(authObject, loginOnly = false) {
-        const justLogin = (_accessToken, _refreshToken, _profile, email, cb) => __awaiter(this, void 0, void 0, function* () {
-            try {
-                googleAuthModel = users
-                const resultado = yield googleAuthModel.findOne({ username: email.emails[0].value })
-                if (resultado) {
-                    return cb(null, resultado)
-                }
-                return cb(null, false, { message: userNotFoundMessage || `User ${email.emails[0].value} not found` })
-            }            catch (err) {
-                return cb(err, null, { message: 'Error login user' })
-            }
-        })
-        const loginAndregister = (_accessToken, _refreshToken, _profile, email, cb) => __awaiter(this, void 0, void 0, function* () {
-            try {
-                const resultado = yield googleAuthModel.findOne({ username: email.emails[0].value })
-                if (resultado) {
-                    return cb(null, resultado)
-                }
-                try {
-                    const usercreated = yield googleAuthModel.create({ username: email.emails[0].value, password: email.id, name: email.name.givenName, lastname: email.name.familyName, avatar: email.photos[0].value })
-                    return cb(null, usercreated)
-                }                catch (err) {
-                    return cb(err, null, { message: 'Error creating user' })
-                }
-            }            catch (err) {
-                return cb(err, null, { message: 'Error login with oAuth' })
-            }
-        })
-        passport.use(new GoogleStrategy(authObject, (loginOnly) ? justLogin : loginAndregister))
+        console.log(oAuthModes)
+        const { justLogin, loginAndRegister } = oAuthModes(DAOgoa, DAOlocal, userNotFoundMessage) // oAuthModes(DAOgoa.model,DAOlocal.model,userNotFoundMessage)
+        passport.use(new GoogleStrategy(authObject, (loginOnly) ? justLogin : loginAndRegister))
         passport.serializeUser((user, done) => {
             done(null, user._id)
         })
         passport.deserializeUser((id, done) => {
-            googleAuthModel.findById(id, done)
+            if (loginOnly) {
+                DAOlocal.findById(id, done)
+            }            else {
+                DAOgoa.findById(id, done)
+            }
+            // googleAuthModel.findById(id, done)
         })
         return this
     }
-    return { buildLocalConfig, setCrypt, GoogleoAuth, setUserNotFoundMessage, setIncorrectPassword, setUserAlrreadyExistsMessage, users, googleAuthModel }
-}
-function registerStrategy(users, userAlrreadyExistsMessage, createHash, schemaObject, crypt) {
-    passport.use('register', new LocalStrategy({ passReqToCallback: true }, (req, username, password, done) => __awaiter(this, void 0, void 0, function* () {
-        try {
-            const user = yield users.findOne({ username })
-            if (user)                { return done(null, false, { message: userAlrreadyExistsMessage || `Username ${username} alrready exists` }) } // error, data
-            let newUser = loginObjectCreator(schemaObject, req)
-            if (crypt)                { newUser = { username, password: createHash(password) } }
-            // Object.keys(schemaObject.obj).forEach((key:string) => {
-            //   if (req.body !== undefined && req.body !==null)  {
-            //     const value:any =req.body[key as keyof ReadableStream<any>]
-            //     newUser = { ...newUser, [key]: value}}
-            // })
-            newUser.username = username
-            newUser.password = crypt ? createHash(password) : password
-            try {
-                const result = yield users.create(newUser)
-                return done(null, result)
-            }            catch (err) {
-                done(err, null, { message: 'Imposible to register new user' })
-            }
-        }        catch (err) {
-            done(err, null, { message: 'Imposible to register new user' })
-        }
-    })))
-}
-function loginStrategy(users, userNotFoundMessage, incorrectPasswordMessage, isValid) {
-    passport.use('login', new LocalStrategy((username, password, done) => __awaiter(this, void 0, void 0, function* () {
-        try {
-            const user = yield users.findOne({ username })
-            if (!user)                { return done(null, false, { message: userNotFoundMessage || `User ${username} not found` }) }
-            if (!isValid(user, password))                { return done(null, false, { message: incorrectPasswordMessage || `Password provided doesnt match the one stored for ${username}` }) }
-            return done(null, user, { message: `User ${username} successfully loged` })
-        }        catch (err) {
-            done(err)
-        }
-    })))
-}
-function loginObjectCreator(users, req) {
-    let objeto
-    Object.keys(users.obj).forEach(keyValue => {
-        if (req.body !== null && req.body[keyValue] !== undefined) {
-            objeto = Object.assign(Object.assign({}, objeto), { [keyValue]: req.body[keyValue] })
-        }
-    })
-    return objeto
+    return { buildLocalConfig, setCrypt, GoogleoAuth, setUserNotFoundMessage, setIncorrectPassword, setUserAlrreadyExistsMessage, users: DAOlocal.model, googleAuthModel }
 }
 module.exports = passportConfigBuilder

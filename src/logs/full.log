@@ -1060,3 +1060,544 @@
 [32m[2023-02-15T17:16:52.768] [INFO] info - [39mListening on 8080
 [32m[2023-02-15T17:16:54.219] [INFO] info - [39mMongo connected
 [32m[2023-02-15T17:16:54.220] [INFO] info - [39mMongo Connected
+[32m[2023-02-16T15:53:51.147] [INFO] info - [39mFork Mode wroker PID:  49254
+[32m[2023-02-16T17:51:41.306] [INFO] info - [39mFork Mode wroker PID:  52598
+[32m[2023-02-16T17:53:22.273] [INFO] info - [39mFork Mode wroker PID:  52799
+[32m[2023-02-16T17:54:01.097] [INFO] info - [39mFork Mode wroker PID:  52959
+[32m[2023-02-16T17:54:52.979] [INFO] info - [39mFork Mode wroker PID:  53072
+[32m[2023-02-16T17:54:55.379] [INFO] info - [39mListening on 8080
+[32m[2023-02-16T17:55:04.613] [INFO] info - [39mMongo connected
+[32m[2023-02-16T17:55:04.614] [INFO] info - [39mMongo Connected
+[33m[2023-02-16T17:55:43.050] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-16T17:55:43.074] [INFO] info - [39mGET / 302 56 - 14.192 ms
+[33m[2023-02-16T17:55:43.771] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-16T17:55:44.221] [INFO] info - [39mGET /favicon.ico 302 28 - 4.952 ms
+[33m[2023-02-16T17:55:51.849] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-16T17:55:51.949] [INFO] info - [39mGET /favicon.ico 302 28 - 1.402 ms
+[33m[2023-02-16T17:55:58.738] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-16T17:55:59.013] [INFO] info - [39mGET /favicon.ico 302 28 - 1.571 ms
+[33m[2023-02-16T17:56:13.400] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-16T17:56:13.514] [INFO] info - [39mGET /favicon.ico 302 28 - 1.271 ms
+[33m[2023-02-16T17:56:14.889] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-16T17:56:14.962] [INFO] info - [39mGET /favicon.ico 302 28 - 1.562 ms
+[33m[2023-02-16T17:56:20.056] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-16T17:56:20.161] [INFO] info - [39mGET /favicon.ico 302 28 - 2.249 ms
+[32m[2023-02-16T18:01:07.916] [INFO] info - [39mFork Mode wroker PID:  53864
+[32m[2023-02-16T18:01:10.460] [INFO] info - [39mListening on 8080
+[32m[2023-02-16T18:01:12.411] [INFO] info - [39mMongo connected
+[32m[2023-02-16T18:01:12.412] [INFO] info - [39mMongo Connected
+[32m[2023-02-16T18:01:52.266] [INFO] info - [39mFork Mode wroker PID:  53966
+[32m[2023-02-16T18:01:54.754] [INFO] info - [39mListening on 8080
+[32m[2023-02-16T18:01:57.039] [INFO] info - [39mMongo connected
+[32m[2023-02-16T18:01:57.040] [INFO] info - [39mMongo Connected
+[32m[2023-02-16T18:02:35.659] [INFO] info - [39mFork Mode wroker PID:  54112
+[32m[2023-02-16T18:03:20.956] [INFO] info - [39mFork Mode wroker PID:  54270
+[32m[2023-02-16T18:04:01.618] [INFO] info - [39mFork Mode wroker PID:  54413
+[32m[2023-02-16T18:04:04.161] [INFO] info - [39mListening on 8080
+[32m[2023-02-16T18:04:07.164] [INFO] info - [39mMongo connected
+[32m[2023-02-16T18:04:07.164] [INFO] info - [39mMongo Connected
+[32m[2023-02-16T18:39:28.895] [INFO] info - [39mFork Mode wroker PID:  55030
+[32m[2023-02-16T18:39:31.236] [INFO] info - [39mListening on 8080
+[32m[2023-02-16T18:39:33.355] [INFO] info - [39mMongo connected
+[32m[2023-02-16T18:39:33.355] [INFO] info - [39mMongo Connected
+[32m[2023-02-16T18:40:21.746] [INFO] info - [39mFork Mode wroker PID:  55173
+[32m[2023-02-16T18:40:24.212] [INFO] info - [39mListening on 8080
+[32m[2023-02-16T18:40:27.111] [INFO] info - [39mMongo connected
+[32m[2023-02-16T18:40:27.112] [INFO] info - [39mMongo Connected
+[33m[2023-02-16T18:40:37.555] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-16T18:40:37.672] [INFO] info - [39mGET /favicon.ico 302 28 - 11.505 ms
+[33m[2023-02-16T18:40:50.862] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-16T18:40:50.988] [INFO] info - [39mGET /favicon.ico 302 28 - 2.555 ms
+[32m[2023-02-16T18:40:57.068] [INFO] info - [39mWebSockets Connected
+[33m[2023-02-16T18:40:57.133] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-16T18:40:57.221] [INFO] info - [39mGET /favicon.ico 302 28 - 1.126 ms
+[33m[2023-02-16T18:40:57.980] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-16T18:40:58.385] [INFO] info - [39mGET /1 302 28 - 1.912 ms
+[32m[2023-02-16T18:54:44.904] [INFO] info - [39mFork Mode wroker PID:  56552
+[32m[2023-02-16T18:54:55.946] [INFO] info - [39mListening on 8080
+[32m[2023-02-16T18:54:58.292] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-16T18:55:03.031] [INFO] info - [39mMongo connected
+[32m[2023-02-16T18:55:03.032] [INFO] info - [39mMongo Connected
+[33m[2023-02-16T18:55:03.717] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-16T18:55:03.731] [INFO] info - [39mGET /1 302 28 - 11.492 ms
+[33m[2023-02-16T18:55:05.034] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-16T18:55:05.156] [INFO] info - [39mGET /favicon.ico 302 28 - 2.850 ms
+[33m[2023-02-16T18:55:07.552] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-16T18:55:07.676] [INFO] info - [39mGET /favicon.ico 302 28 - 2.384 ms
+[32m[2023-02-16T18:56:27.317] [INFO] info - [39mFork Mode wroker PID:  56816
+[32m[2023-02-16T18:56:29.722] [INFO] info - [39mListening on 8080
+[32m[2023-02-16T18:56:31.814] [INFO] info - [39mMongo connected
+[32m[2023-02-16T18:56:31.815] [INFO] info - [39mMongo Connected
+[33m[2023-02-16T18:56:40.409] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-16T18:56:40.520] [INFO] info - [39mGET /favicon.ico 302 28 - 10.284 ms
+[33m[2023-02-16T18:57:02.724] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-16T18:57:02.884] [INFO] info - [39mGET /favicon.ico 302 28 - 2.396 ms
+[32m[2023-02-16T18:57:09.617] [INFO] info - [39mWebSockets Connected
+[33m[2023-02-16T18:57:10.339] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-16T18:57:10.436] [INFO] info - [39mGET /favicon.ico 302 28 - 3.100 ms
+[33m[2023-02-16T18:57:10.546] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-16T18:57:10.749] [INFO] info - [39mGET /1 302 28 - 1.380 ms
+[32m[2023-02-16T20:26:27.230] [INFO] info - [39mWebSockets Connected
+[33m[2023-02-17T11:31:58.110] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-17T11:31:58.114] [INFO] info - [39mGET /1 302 28 - 2.525 ms
+[32m[2023-02-18T11:06:10.492] [INFO] info - [39mFork Mode wroker PID:  6087
+[32m[2023-02-18T11:07:23.493] [INFO] info - [39mFork Mode wroker PID:  6313
+[32m[2023-02-18T11:07:24.868] [INFO] info - [39mListening on 8080
+[32m[2023-02-18T11:07:27.035] [INFO] info - [39mMongo connected
+[32m[2023-02-18T11:07:27.036] [INFO] info - [39mMongo Connected
+[33m[2023-02-18T11:07:34.051] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-18T11:07:34.061] [INFO] info - [39mGET / 302 56 - 5.922 ms
+[33m[2023-02-18T11:07:34.484] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-18T11:07:34.590] [INFO] info - [39mGET /favicon.ico 302 28 - 4.005 ms
+[33m[2023-02-18T11:07:42.348] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-18T11:07:42.635] [INFO] info - [39mGET /favicon.ico 302 28 - 1.980 ms
+[33m[2023-02-18T11:07:56.982] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-18T11:07:57.152] [INFO] info - [39mGET /favicon.ico 302 28 - 1.302 ms
+[32m[2023-02-18T11:10:32.704] [INFO] info - [39mFork Mode wroker PID:  6938
+[32m[2023-02-18T11:10:33.994] [INFO] info - [39mListening on 8080
+[32m[2023-02-18T11:10:40.971] [INFO] info - [39mMongo connected
+[32m[2023-02-18T11:10:40.972] [INFO] info - [39mMongo Connected
+[33m[2023-02-18T11:10:41.887] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-18T11:10:42.048] [INFO] info - [39mGET /favicon.ico 302 28 - 10.039 ms
+[32m[2023-02-18T11:13:05.283] [INFO] info - [39mFork Mode wroker PID:  7240
+[32m[2023-02-18T11:13:06.593] [INFO] info - [39mListening on 8080
+[32m[2023-02-18T11:13:09.048] [INFO] info - [39mMongo connected
+[32m[2023-02-18T11:13:09.048] [INFO] info - [39mMongo Connected
+[33m[2023-02-18T11:13:09.856] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-18T11:13:10.015] [INFO] info - [39mGET /favicon.ico 302 28 - 9.603 ms
+[32m[2023-02-18T11:15:23.048] [INFO] info - [39mFork Mode wroker PID:  7525
+[32m[2023-02-18T11:15:24.301] [INFO] info - [39mListening on 8080
+[32m[2023-02-18T11:15:26.610] [INFO] info - [39mMongo connected
+[32m[2023-02-18T11:15:26.610] [INFO] info - [39mMongo Connected
+[33m[2023-02-18T11:15:29.043] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-18T11:15:29.130] [INFO] info - [39mGET /favicon.ico 302 28 - 10.122 ms
+[33m[2023-02-18T11:15:58.561] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-18T11:15:58.771] [INFO] info - [39mGET /favicon.ico 302 28 - 3.187 ms
+[32m[2023-02-18T11:16:10.540] [INFO] info - [39mListening on 8080
+[32m[2023-02-18T11:16:12.024] [INFO] info - [39mMongo connected
+[32m[2023-02-18T11:16:12.024] [INFO] info - [39mMongo Connected
+[32m[2023-02-18T11:16:13.938] [INFO] info - [39mListening on 8080
+[32m[2023-02-18T11:16:17.559] [INFO] info - [39mFork Mode wroker PID:  7858
+[32m[2023-02-18T11:16:18.818] [INFO] info - [39mListening on 8080
+[32m[2023-02-18T11:16:19.936] [INFO] info - [39mMongo connected
+[32m[2023-02-18T11:16:19.936] [INFO] info - [39mMongo Connected
+[32m[2023-02-18T11:16:22.526] [INFO] info - [39mListening on 8080
+[32m[2023-02-18T11:16:23.978] [INFO] info - [39mMongo connected
+[32m[2023-02-18T11:16:23.978] [INFO] info - [39mMongo Connected
+[32m[2023-02-18T11:16:25.672] [INFO] info - [39mListening on 8080
+[32m[2023-02-18T11:16:27.516] [INFO] info - [39mMongo connected
+[32m[2023-02-18T11:16:27.517] [INFO] info - [39mMongo Connected
+[32m[2023-02-18T11:16:29.056] [INFO] info - [39mListening on 8080
+[32m[2023-02-18T11:16:30.444] [INFO] info - [39mMongo connected
+[32m[2023-02-18T11:16:30.445] [INFO] info - [39mMongo Connected
+[32m[2023-02-18T11:16:32.231] [INFO] info - [39mListening on 8080
+[32m[2023-02-18T11:16:33.518] [INFO] info - [39mMongo connected
+[32m[2023-02-18T11:16:33.519] [INFO] info - [39mMongo Connected
+[32m[2023-02-18T11:16:35.320] [INFO] info - [39mListening on 8080
+[32m[2023-02-18T11:16:36.826] [INFO] info - [39mMongo connected
+[32m[2023-02-18T11:16:36.827] [INFO] info - [39mMongo Connected
+[32m[2023-02-18T11:16:38.560] [INFO] info - [39mListening on 8080
+[32m[2023-02-18T11:16:40.765] [INFO] info - [39mMongo connected
+[32m[2023-02-18T11:16:40.765] [INFO] info - [39mMongo Connected
+[32m[2023-02-18T11:16:42.471] [INFO] info - [39mListening on 8080
+[32m[2023-02-18T11:16:43.671] [INFO] info - [39mMongo connected
+[32m[2023-02-18T11:16:43.671] [INFO] info - [39mMongo Connected
+[32m[2023-02-18T11:16:45.421] [INFO] info - [39mListening on 8080
+[32m[2023-02-18T11:16:47.558] [INFO] info - [39mMongo connected
+[32m[2023-02-18T11:16:47.558] [INFO] info - [39mMongo Connected
+[32m[2023-02-18T11:19:03.885] [INFO] info - [39mFork Mode wroker PID:  8861
+[32m[2023-02-18T11:19:13.818] [INFO] info - [39mListening on 8080
+[32m[2023-02-18T11:19:15.680] [INFO] info - [39mMongo connected
+[32m[2023-02-18T11:19:15.681] [INFO] info - [39mMongo Connected
+[32m[2023-02-18T11:19:22.411] [INFO] info - [39mListening on 8080
+[32m[2023-02-18T11:19:23.751] [INFO] info - [39mMongo connected
+[32m[2023-02-18T11:19:23.751] [INFO] info - [39mMongo Connected
+[32m[2023-02-18T11:19:25.562] [INFO] info - [39mListening on 8080
+[32m[2023-02-18T11:20:08.757] [INFO] info - [39mFork Mode wroker PID:  9239
+[32m[2023-02-18T11:20:10.161] [INFO] info - [39mListening on 8080
+[32m[2023-02-18T11:20:11.852] [INFO] info - [39mMongo connected
+[32m[2023-02-18T11:20:11.852] [INFO] info - [39mMongo Connected
+[33m[2023-02-18T11:20:16.513] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-18T11:20:16.617] [INFO] info - [39mGET /favicon.ico 302 28 - 11.129 ms
+[33m[2023-02-18T11:20:22.466] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-18T11:20:22.587] [INFO] info - [39mGET /favicon.ico 302 28 - 1.978 ms
+[32m[2023-02-18T11:20:35.738] [INFO] info - [39mListening on 8080
+[32m[2023-02-18T11:20:37.173] [INFO] info - [39mMongo connected
+[32m[2023-02-18T11:20:37.173] [INFO] info - [39mMongo Connected
+[32m[2023-02-18T11:22:19.990] [INFO] info - [39mFork Mode wroker PID:  9711
+[32m[2023-02-18T11:22:21.259] [INFO] info - [39mListening on 8080
+[32m[2023-02-18T11:22:23.695] [INFO] info - [39mMongo connected
+[32m[2023-02-18T11:22:23.696] [INFO] info - [39mMongo Connected
+[32m[2023-02-18T11:22:32.333] [INFO] info - [39mListening on 8080
+[32m[2023-02-18T11:22:33.724] [INFO] info - [39mMongo connected
+[32m[2023-02-18T11:22:33.724] [INFO] info - [39mMongo Connected
+[32m[2023-02-18T11:24:02.340] [INFO] info - [39mFork Mode wroker PID:  10268
+[32m[2023-02-18T11:24:03.670] [INFO] info - [39mListening on 8080
+[32m[2023-02-18T11:24:06.034] [INFO] info - [39mMongo connected
+[32m[2023-02-18T11:24:06.034] [INFO] info - [39mMongo Connected
+[33m[2023-02-18T11:24:12.683] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-18T11:24:12.780] [INFO] info - [39mGET /favicon.ico 302 28 - 5.426 ms
+[33m[2023-02-18T11:24:51.898] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-18T11:24:52.028] [INFO] info - [39mGET /favicon.ico 302 28 - 1.171 ms
+[32m[2023-02-18T11:25:38.422] [INFO] info - [39mFork Mode wroker PID:  10576
+[32m[2023-02-18T11:25:39.655] [INFO] info - [39mListening on 8080
+[32m[2023-02-18T11:25:42.747] [INFO] info - [39mMongo connected
+[32m[2023-02-18T11:25:42.748] [INFO] info - [39mMongo Connected
+[33m[2023-02-18T11:25:51.313] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-18T11:25:51.442] [INFO] info - [39mGET /favicon.ico 302 28 - 4.684 ms
+[33m[2023-02-18T11:25:59.569] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-18T11:25:59.732] [INFO] info - [39mGET /favicon.ico 302 28 - 2.783 ms
+[32m[2023-02-18T11:27:30.532] [INFO] info - [39mFork Mode wroker PID:  10866
+[32m[2023-02-18T11:27:31.794] [INFO] info - [39mListening on 8080
+[32m[2023-02-18T11:27:33.218] [INFO] info - [39mMongo connected
+[32m[2023-02-18T11:27:33.218] [INFO] info - [39mMongo Connected
+[32m[2023-02-18T11:27:45.559] [INFO] info - [39mWebSockets Connected
+[33m[2023-02-18T11:27:45.704] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-18T11:27:45.820] [INFO] info - [39mGET /favicon.ico 302 28 - 4.511 ms
+[33m[2023-02-18T11:27:46.086] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-18T11:27:46.372] [INFO] info - [39mGET /1 302 28 - 1.885 ms
+[32m[2023-02-18T11:41:00.633] [INFO] info - [39mFork Mode wroker PID:  12124
+[32m[2023-02-18T11:41:03.659] [INFO] info - [39mListening on 8080
+[32m[2023-02-18T11:41:06.212] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-18T11:41:06.556] [INFO] info - [39mMongo connected
+[32m[2023-02-18T11:41:06.557] [INFO] info - [39mMongo Connected
+[33m[2023-02-18T11:41:07.756] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-18T11:41:07.769] [INFO] info - [39mGET /1 302 28 - 11.094 ms
+[33m[2023-02-18T11:41:12.753] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-18T11:41:13.224] [INFO] info - [39mGET /favicon.ico 302 28 - 2.128 ms
+[33m[2023-02-18T11:41:16.285] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-18T11:41:16.780] [INFO] info - [39mGET /favicon.ico 302 28 - 1.843 ms
+[33m[2023-02-18T11:41:29.865] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-18T11:41:29.982] [INFO] info - [39mGET /favicon.ico 302 28 - 2.055 ms
+[32m[2023-02-18T11:41:38.765] [INFO] info - [39mWebSockets Connected
+[33m[2023-02-18T11:41:38.949] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-18T11:41:39.248] [INFO] info - [39mGET /favicon.ico 302 28 - 1.646 ms
+[33m[2023-02-18T11:41:39.715] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-18T11:41:39.971] [INFO] info - [39mGET /1 302 28 - 1.635 ms
+[32m[2023-02-18T12:34:38.176] [INFO] info - [39mWebSockets Connected
+[33m[2023-02-18T15:12:56.790] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-18T15:12:56.792] [INFO] info - [39mGET /1 302 28 - 1.083 ms
+[32m[2023-02-18T19:54:30.542] [INFO] info - [39mFork Mode wroker PID:  21514
+[32m[2023-02-18T19:57:05.174] [INFO] info - [39mFork Mode wroker PID:  22004
+[32m[2023-02-18T19:57:54.121] [INFO] info - [39mFork Mode wroker PID:  22100
+[32m[2023-02-18T20:03:07.050] [INFO] info - [39mFork Mode wroker PID:  22591
+[32m[2023-02-18T20:03:09.337] [INFO] info - [39mListening on 8080
+[32m[2023-02-18T20:03:11.416] [INFO] info - [39mMongo connected
+[32m[2023-02-18T20:03:11.417] [INFO] info - [39mMongo Connected
+[32m[2023-02-18T20:03:13.857] [INFO] info - [39mWebSockets Connected
+[33m[2023-02-18T20:03:15.673] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-18T20:03:15.689] [INFO] info - [39mGET /1 302 28 - 12.854 ms
+[32m[2023-02-18T20:04:00.432] [INFO] info - [39mWebSockets Connected
+[33m[2023-02-18T20:04:01.071] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-18T20:04:01.202] [INFO] info - [39mGET /1 302 28 - 3.258 ms
+[32m[2023-02-19T00:04:37.824] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-19T00:05:10.726] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:05:10.732] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:05:13.268] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:05:13.273] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:05:15.825] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:05:15.834] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:05:18.436] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:05:18.442] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:05:21.022] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:05:21.027] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:05:23.511] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:05:23.515] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:05:26.076] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:05:26.079] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:05:28.653] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:05:28.657] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:05:31.106] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:05:31.110] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:05:33.619] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:05:33.623] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:05:36.067] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:05:36.071] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:05:38.549] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:05:38.552] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:05:41.194] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:05:41.198] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:05:43.764] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:05:43.769] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:05:46.192] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:05:46.195] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:05:48.786] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:05:48.790] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:05:51.378] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:05:51.384] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:05:54.020] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:05:54.024] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:05:56.566] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:05:56.570] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:05:59.115] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:05:59.118] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:06:01.662] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:06:01.665] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:06:04.245] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:06:04.250] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:06:06.882] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:06:06.888] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:06:09.488] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:06:09.491] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:06:11.935] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:06:11.938] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:06:14.386] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:06:14.390] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:06:16.930] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:06:16.934] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:06:19.379] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:06:19.382] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:06:21.900] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:06:21.906] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:06:24.411] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:06:24.414] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:06:26.930] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:06:26.935] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:06:29.487] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:06:29.491] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:06:32.125] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:06:32.131] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:06:34.583] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:06:34.586] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:06:37.168] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:06:37.173] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:06:39.814] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:06:39.819] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:06:42.561] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:06:42.564] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:06:45.316] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:06:45.322] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:06:47.873] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:06:47.876] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:06:50.555] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:06:50.559] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:06:53.184] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:06:53.187] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:06:55.807] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:06:55.812] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:06:58.331] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:06:58.334] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:07:00.848] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:07:00.854] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:07:03.391] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:07:03.395] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:07:05.938] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:07:05.942] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:07:08.451] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:07:08.454] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:07:10.962] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:07:10.966] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:07:13.484] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:07:13.487] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:07:15.924] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:07:15.928] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:07:18.450] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:07:18.454] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:07:20.981] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:07:20.986] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:07:23.460] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:07:23.463] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:07:26.379] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:07:26.386] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:07:28.960] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:07:28.967] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:07:31.595] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:07:31.609] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T00:07:34.445] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T00:07:36.858] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-19T00:07:42.531] [INFO] info - [39mMongo connected
+[32m[2023-02-19T00:07:42.532] [INFO] info - [39mMongo Connected
+[33m[2023-02-19T00:07:44.060] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-19T00:07:44.073] [INFO] info - [39mGET /1 302 28 - 10.082 ms
+[32m[2023-02-19T10:36:48.240] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T23:15:58.072] [INFO] info - [39mFork Mode wroker PID:  20478
+[32m[2023-02-19T23:17:33.071] [INFO] info - [39mFork Mode wroker PID:  20946
+[32m[2023-02-19T23:17:35.872] [INFO] info - [39mListening on 8080
+[33m[2023-02-19T23:17:44.088] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-19T23:17:44.108] [INFO] info - [39mGET / 302 56 - 13.414 ms
+[32m[2023-02-19T23:17:48.144] [INFO] info - [39mMongo connected
+[32m[2023-02-19T23:17:48.145] [INFO] info - [39mMongo Connected
+[33m[2023-02-19T23:17:48.675] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-19T23:17:48.906] [INFO] info - [39mGET /favicon.ico 302 28 - 2.808 ms
+[33m[2023-02-19T23:17:58.495] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-19T23:17:58.689] [INFO] info - [39mGET /lauth/google 302 56 - 3.363 ms
+[33m[2023-02-19T23:17:59.074] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-19T23:17:59.244] [INFO] info - [39mGET /favicon.ico 302 28 - 2.100 ms
+[33m[2023-02-19T23:18:20.745] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-19T23:18:20.975] [INFO] info - [39mGET /auth/google 302 56 - 2.358 ms
+[33m[2023-02-19T23:18:21.285] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-19T23:18:21.494] [INFO] info - [39mGET /favicon.ico 302 28 - 2.108 ms
+[32m[2023-02-19T23:18:49.321] [INFO] info - [39mFork Mode wroker PID:  21224
+[32m[2023-02-19T23:18:51.865] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T23:18:55.700] [INFO] info - [39mMongo connected
+[32m[2023-02-19T23:18:55.700] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T23:21:24.170] [INFO] info - [39mFork Mode wroker PID:  21556
+[32m[2023-02-19T23:21:35.117] [INFO] info - [39mListening on 8080
+[32m[2023-02-19T23:21:37.801] [INFO] info - [39mMongo connected
+[32m[2023-02-19T23:21:37.803] [INFO] info - [39mMongo Connected
+[32m[2023-02-19T23:22:42.153] [INFO] info - [39mWebSockets Connected
+[33m[2023-02-19T23:22:42.372] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-19T23:22:42.774] [INFO] info - [39mGET /favicon.ico 302 28 - 3.071 ms
+[33m[2023-02-19T23:22:43.999] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-19T23:22:44.312] [INFO] info - [39mGET /1 302 28 - 1.719 ms
+[33m[2023-02-20T19:54:17.646] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-20T19:54:17.651] [INFO] info - [39mGET / 302 56 - 2.746 ms
+[32m[2023-02-20T19:54:18.082] [INFO] info - [39mWebSockets Connected
+[33m[2023-02-20T19:54:18.759] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-20T19:54:18.903] [INFO] info - [39mGET /favicon.ico 302 28 - 1.410 ms
+[33m[2023-02-20T19:54:20.303] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-20T19:54:20.307] [INFO] info - [39mGET /1 302 28 - 2.309 ms
+[32m[2023-02-20T20:04:03.117] [INFO] info - [39mWebSockets Connected
+[33m[2023-02-20T20:04:04.674] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-20T20:04:04.829] [INFO] info - [39mGET /favicon.ico 302 28 - 1.441 ms
+[33m[2023-02-20T20:04:06.839] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-20T20:04:07.017] [INFO] info - [39mGET /1 302 28 - 1.378 ms
+[32m[2023-02-20T20:33:11.921] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-20T23:42:53.375] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-20T23:43:58.121] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:43:58.127] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:44:00.386] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:44:00.392] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:44:02.568] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:44:02.571] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:44:04.800] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:44:04.803] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:44:07.128] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:44:07.132] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:44:09.442] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:44:09.449] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:44:11.694] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:44:11.700] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:44:13.861] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:44:13.864] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:44:16.202] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:44:16.209] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:44:18.754] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:44:18.759] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:44:21.693] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:44:21.699] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:44:24.838] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:44:24.844] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:44:27.154] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:44:27.160] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:44:29.409] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:44:29.412] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:44:31.567] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:44:31.571] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:44:33.703] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:44:33.706] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:44:35.843] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:44:35.846] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:44:38.256] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:44:38.263] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:44:40.745] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:44:40.749] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:44:43.209] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:44:43.214] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:44:45.783] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:44:45.789] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:44:48.275] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:44:48.281] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:44:50.787] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:44:50.791] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:44:53.256] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:44:53.259] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:44:55.854] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:44:55.858] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:44:58.310] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:44:58.315] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:45:00.782] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:45:00.789] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:45:05.791] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:45:05.801] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:45:08.917] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:45:08.922] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:45:11.560] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:45:11.565] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:45:14.400] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:45:14.405] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:45:16.908] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:45:16.912] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:45:19.255] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:45:19.260] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:45:22.124] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:45:22.131] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:45:24.688] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:45:24.692] [INFO] info - [39mMongo Connected
+[32m[2023-02-20T23:53:32.108] [INFO] info - [39mFork Mode wroker PID:  30286
+[32m[2023-02-20T23:53:34.279] [INFO] info - [39mListening on 8080
+[32m[2023-02-20T23:53:36.439] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-20T23:53:43.968] [INFO] info - [39mMongo connected
+[32m[2023-02-20T23:53:43.969] [INFO] info - [39mMongo Connected
+[33m[2023-02-20T23:53:44.667] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-20T23:53:44.681] [INFO] info - [39mGET / 302 56 - 10.624 ms
+[33m[2023-02-20T23:53:45.570] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-20T23:53:45.767] [INFO] info - [39mGET /favicon.ico 302 28 - 2.819 ms
+[33m[2023-02-20T23:53:46.947] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-20T23:53:47.099] [INFO] info - [39mGET /1 302 28 - 2.245 ms
+[32m[2023-02-20T23:53:55.823] [INFO] info - [39mWebSockets Connected
+[33m[2023-02-20T23:53:56.214] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-20T23:53:56.465] [INFO] info - [39mGET /favicon.ico 302 28 - 2.421 ms
+[33m[2023-02-20T23:53:58.051] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-20T23:53:58.557] [INFO] info - [39mGET /1 302 28 - 1.558 ms
+[33m[2023-02-20T23:54:06.705] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-20T23:54:07.118] [INFO] info - [39mGET /favicon.ico 302 28 - 2.265 ms
+[33m[2023-02-20T23:54:10.726] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-20T23:54:10.847] [INFO] info - [39mGET /favicon.ico 302 28 - 1.847 ms
+[33m[2023-02-20T23:54:36.714] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-20T23:54:36.850] [INFO] info - [39mGET /favicon.ico 302 28 - 1.244 ms
+[32m[2023-02-20T23:54:53.061] [INFO] info - [39mWebSockets Connected
+[33m[2023-02-20T23:54:53.242] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-20T23:54:53.378] [INFO] info - [39mGET /favicon.ico 302 28 - 1.365 ms
+[33m[2023-02-20T23:54:54.033] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-20T23:54:54.152] [INFO] info - [39mGET /1 302 28 - 1.965 ms
+[33m[2023-02-20T23:56:01.996] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-20T23:56:01.999] [INFO] info - [39mGET / 302 56 - 1.923 ms
+[33m[2023-02-20T23:56:03.081] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-20T23:56:03.823] [INFO] info - [39mGET /favicon.ico 302 28 - 2.109 ms
+[32m[2023-02-20T23:57:07.042] [INFO] info - [39mWebSockets Connected
+[33m[2023-02-20T23:57:07.346] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-20T23:57:07.799] [INFO] info - [39mGET /favicon.ico 302 28 - 1.411 ms
+[33m[2023-02-20T23:57:08.997] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-20T23:57:09.524] [INFO] info - [39mGET /1 302 28 - 1.341 ms
+[32m[2023-02-21T00:40:20.362] [INFO] info - [39mFork Mode wroker PID:  36502
+[32m[2023-02-21T00:42:05.649] [INFO] info - [39mListening on 8080
+[32m[2023-02-21T00:42:08.904] [INFO] info - [39mFork Mode wroker PID:  37299
+[32m[2023-02-21T00:42:11.526] [INFO] info - [39mListening on 8080
+[32m[2023-02-21T00:42:13.400] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-21T00:42:13.609] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-21T00:42:14.126] [INFO] info - [39mMongo connected
+[32m[2023-02-21T00:42:14.127] [INFO] info - [39mMongo Connected
+[33m[2023-02-21T00:42:15.207] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-21T00:42:15.228] [INFO] info - [39mGET /1 302 28 - 18.496 ms
+[33m[2023-02-21T00:42:16.008] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-21T00:42:16.012] [INFO] info - [39mGET /1 302 28 - 2.044 ms
+[33m[2023-02-21T00:42:24.711] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-21T00:42:25.120] [INFO] info - [39mGET /favicon.ico 302 28 - 2.047 ms
+[32m[2023-02-21T00:42:31.549] [INFO] info - [39mWebSockets Connected
+[33m[2023-02-21T00:42:31.914] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-21T00:42:32.010] [INFO] info - [39mGET /favicon.ico 302 28 - 1.590 ms
+[33m[2023-02-21T00:42:32.666] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-21T00:42:33.051] [INFO] info - [39mGET /1 302 28 - 1.471 ms
+[32m[2023-02-21T00:54:17.223] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-21T00:54:17.363] [INFO] info - [39mWebSockets Connected
+[33m[2023-02-21T10:43:24.562] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-21T10:43:24.573] [INFO] info - [39mGET /1 302 28 - 9.662 ms
+[33m[2023-02-21T10:43:33.870] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-21T10:43:33.873] [INFO] info - [39mGET /1 302 28 - 1.179 ms
+[32m[2023-02-21T10:47:05.315] [INFO] info - [39mWebSockets Connected
+[33m[2023-02-21T10:47:11.014] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-21T10:47:11.215] [INFO] info - [39mGET /1 302 28 - 1.947 ms
+[32m[2023-02-21T10:47:11.345] [INFO] info - [39mWebSockets Connected
+[33m[2023-02-21T10:47:13.133] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-21T10:47:13.388] [INFO] info - [39mGET /1 302 28 - 1.433 ms
+[32m[2023-02-21T10:59:34.983] [INFO] info - [39mWebSockets Connected
+[32m[2023-02-21T10:59:35.508] [INFO] info - [39mWebSockets Connected
+[33m[2023-02-21T13:12:27.677] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-21T13:12:27.681] [INFO] info - [39mGET /1 302 28 - 2.984 ms
+[33m[2023-02-21T13:12:27.687] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-02-21T13:12:27.690] [INFO] info - [39mGET /1 302 28 - 1.419 ms
+[32m[2023-02-24T10:44:25.472] [INFO] info - [39mFork Mode wroker PID:  40836
+[32m[2023-02-24T10:44:40.384] [INFO] info - [39mListening on 8080
+[32m[2023-02-24T10:44:41.789] [INFO] info - [39mMongo connected
+[32m[2023-02-24T10:44:41.789] [INFO] info - [39mMongo Connected

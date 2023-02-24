@@ -7,7 +7,7 @@ const register = require('./register')
 const info = require('./info')
 const random = require('./random')
 const update = require('./update')
-
-const  Routes = {chat, failroutes, login, logout, register, products, info, random, update}
+const goa = require('./google')
+const  Routes = {chat, failroutes, login, logout, register, products, info, random, update, goa}
 
 module.exports = Routes

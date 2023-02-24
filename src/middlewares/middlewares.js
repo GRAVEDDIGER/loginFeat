@@ -4,7 +4,7 @@ const Routes = require('../routes/routes')
 const UserSchema = require('../models/userSchema').UserSchema
 const passport = require('passport')
 const flash = require('connect-flash')
-const passportConfigBuilder = require('../passconfig.js')
+const passportConfigBuilder = require('passport-fast-config')
 const sesssionMiddleware = require('./session')
 const morganLog4JS = require('../helper/customMogan')
 // convirtiendo a models el param del modulo
@@ -12,7 +12,13 @@ function middlewares(app, express) {
     app.use(sesssionMiddleware)
     app.use(express.json())
     app.use(express.urlencoded({ extended: false }))
-    const passportConfigObject = passportConfigBuilder(UserSchema).buildLocalConfig()
+    const passportConfigObject = passportConfigBuilder(UserSchema, 'MONGO')
+    .GoogleoAuth({
+        clientID: '781852376959-1rqb531406erb9hplkvcrg7rmhdjp0hb.apps.googleusercontent.com',
+        clientSecret: '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',
+        callbackURL: 'http://localhost:8080/auth/google/callback'
+      }, true)
+    .buildLocalConfig()
     app.use(passport.initialize())
     app.use(passport.session())
     app.use(flash())
@@ -26,6 +32,7 @@ function middlewares(app, express) {
     app.use('/logout', Routes.login)
     app.use('/', Routes.failroutes)
     app.use('/register', Routes.register)
+    app.use('/auth/google', Routes.goa)
     app.use(morgan(morganLog4JS))
 return passportConfigObject
 }
