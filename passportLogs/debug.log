@@ -1,0 +1,257 @@
+{
+  level: 'debug',
+  message: 'findByUserName',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:29:00.882Z'
+}
+{
+  level: 'info',
+  message: 'verifyTableStructure',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:29:00.894Z'
+}
+{
+  level: 'debug',
+  message: 'isTable',
+  table: 'users',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:29:00.897Z'
+}
+{
+  level: 'debug',
+  message: 'findByUserName',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:05.962Z'
+}
+{
+  level: 'info',
+  message: 'verifyTableStructure',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:05.967Z'
+}
+{
+  level: 'debug',
+  message: 'isTable',
+  table: 'users',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:05.970Z'
+}
+{
+  level: 'debug',
+  message: 'returnFields',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:05.993Z'
+}
+{
+  level: 'info',
+  message: 'verifyTableStructure',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:05.997Z'
+}
+{
+  level: 'debug',
+  message: 'isTable',
+  table: 'users',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:06.003Z'
+}
+{
+  level: 'debug',
+  message: 'loginObjectCreator',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:06.007Z'
+}
+{
+  level: 'debug',
+  message: 'createUser',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:06.147Z'
+}
+{
+  level: 'info',
+  message: 'verifyTableStructure',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:06.153Z'
+}
+{
+  level: 'debug',
+  message: 'isTable',
+  table: 'users',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:06.156Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:06.245Z'
+}
+{
+  level: 'info',
+  message: 'verifyTableStructure',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:06.248Z'
+}
+{
+  level: 'debug',
+  message: 'isTable',
+  table: 'users',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:06.251Z'
+}
+{
+  level: 'debug',
+  message: 'Starting the query',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:06.270Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:06.394Z'
+}
+{
+  level: 'info',
+  message: 'verifyTableStructure',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:06.397Z'
+}
+{
+  level: 'debug',
+  message: 'isTable',
+  table: 'users',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:06.403Z'
+}
+{
+  level: 'debug',
+  message: 'Starting the query',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:06.418Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:06.464Z'
+}
+{
+  level: 'info',
+  message: 'verifyTableStructure',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:06.466Z'
+}
+{
+  level: 'debug',
+  message: 'isTable',
+  table: 'users',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:06.468Z'
+}
+{
+  level: 'debug',
+  message: 'Starting the query',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:06.479Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:11.065Z'
+}
+{
+  level: 'info',
+  message: 'verifyTableStructure',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:11.069Z'
+}
+{
+  level: 'debug',
+  message: 'isTable',
+  table: 'users',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:11.076Z'
+}
+{
+  level: 'debug',
+  message: 'Starting the query',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:11.091Z'
+}
+{
+  level: 'debug',
+  message: 'findByUserName',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:11.101Z'
+}
+{
+  level: 'info',
+  message: 'verifyTableStructure',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:11.103Z'
+}
+{
+  level: 'debug',
+  message: 'isTable',
+  table: 'users',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:11.106Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:11.264Z'
+}
+{
+  level: 'info',
+  message: 'verifyTableStructure',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:11.267Z'
+}
+{
+  level: 'debug',
+  message: 'isTable',
+  table: 'users',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:11.269Z'
+}
+{
+  level: 'debug',
+  message: 'Starting the query',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:11.287Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:11.480Z'
+}
+{
+  level: 'info',
+  message: 'verifyTableStructure',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:11.486Z'
+}
+{
+  level: 'debug',
+  message: 'isTable',
+  table: 'users',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:11.490Z'
+}
+{
+  level: 'debug',
+  message: 'Starting the query',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:11.509Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-04T12:31:11.661Z'
+}

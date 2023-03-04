@@ -27,7 +27,7 @@
     "morgan": "^1.10.0",
     "nodemon": "^2.0.20",
     "passport": "^0.6.0",
-    "passport-fast-config": "^1.0.5-b",
+    "passport-fast-config": "^1.0.7-b",
     "passport-local": "^1.0.0",
     "pm2": "^5.2.2",
     "postcss": "^8.4.21",
