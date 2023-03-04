@@ -1532,3 +1532,29 @@
 [32m[2023-03-02T16:38:27.102] [INFO] info - [39mGET /1 302 28 - 2.464 ms
 [32m[2023-03-02T16:38:29.292] [INFO] info - [39mGET /favicon.ico 302 28 - 2.305 ms
 [32m[2023-03-02T16:38:36.101] [INFO] info - [39mGET /favicon.ico 302 28 - 1.970 ms
+[32m[2023-03-03T21:48:34.603] [INFO] info - [39mListening on 8080
+[32m[2023-03-03T21:48:35.907] [INFO] info - [39mMongo connected
+[32m[2023-03-03T21:48:35.908] [INFO] info - [39mMongo Connected
+[32m[2023-03-03T21:48:52.482] [INFO] info - [39mGET / 302 56 - 5.507 ms
+[32m[2023-03-03T21:48:52.729] [INFO] info - [39mGET /favicon.ico 302 28 - 1.624 ms
+[32m[2023-03-03T21:49:00.677] [INFO] info - [39mGET /favicon.ico 302 28 - 1.433 ms
+[32m[2023-03-03T21:49:08.123] [INFO] info - [39mWebSockets Connected
+[32m[2023-03-03T21:49:08.201] [INFO] info - [39mGET /favicon.ico 302 28 - 1.900 ms
+[32m[2023-03-03T21:49:08.364] [INFO] info - [39mGET /1 302 28 - 0.647 ms
+[32m[2023-03-03T21:56:27.717] [INFO] info - [39mListening on 8080
+[32m[2023-03-03T21:56:29.496] [INFO] info - [39mMongo connected
+[32m[2023-03-03T21:56:29.579] [INFO] info - [39mWebSockets Connected
+[32m[2023-03-03T21:56:30.026] [INFO] info - [39mGET /1 302 28 - 3.473 ms
+[32m[2023-03-03T21:57:16.940] [INFO] info - [39mGET /favicon.ico 302 28 - 1.505 ms
+[32m[2023-03-03T21:57:18.386] [INFO] info - [39mGET /favicon.ico 302 28 - 1.497 ms
+[32m[2023-03-03T21:57:28.388] [INFO] info - [39mGET /favicon.ico 302 28 - 1.004 ms
+[32m[2023-03-03T22:04:34.777] [INFO] info - [39mListening on 8080
+[32m[2023-03-03T22:04:35.316] [INFO] info - [39mMongo connected
+[32m[2023-03-03T22:04:44.898] [INFO] info - [39mGET /favicon.ico 302 28 - 1.706 ms
+[32m[2023-03-03T22:04:46.632] [INFO] info - [39mGET /favicon.ico 302 28 - 0.722 ms
+[32m[2023-03-03T22:04:47.742] [INFO] info - [39mGET /favicon.ico 302 28 - 1.708 ms
+[32m[2023-03-03T22:04:55.440] [INFO] info - [39mGET /favicon.ico 302 28 - 2.575 ms
+[32m[2023-03-03T22:06:14.296] [INFO] info - [39mListening on 8080
+[32m[2023-03-03T22:06:15.414] [INFO] info - [39mMongo connected
+[32m[2023-03-03T22:06:39.673] [INFO] info - [39mGET /favicon.ico 302 28 - 3.812 ms
+[32m[2023-03-03T22:06:49.128] [INFO] info - [39mGET /favicon.ico 302 28 - 1.111 ms

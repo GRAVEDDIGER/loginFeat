@@ -244,4 +244,4 @@ class SqlDAO {
         this.dbSchema = dbSchema
     }
 }
-exports.default = SqlDAO
+module.exports = SqlDAO

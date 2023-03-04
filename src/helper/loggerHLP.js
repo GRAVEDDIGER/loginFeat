@@ -31,24 +31,24 @@ exports.loggerObject = {
         level: 'info',
         format: winston_1.format.combine(winston_1.format.label({ label: 'Logged by passport-fast-config' }), winston_1.format.timestamp(), winston_1.format.prettyPrint()),
         transports: [new winston_1.default.transports.Console(),
-            new winston_1.default.transports.File({ filename: 'info.log' })]
+            new winston_1.default.transports.File({ filename: '/psfcLogs/info.log' })]
     }),
     warning: winston_1.default.createLogger({
         level: 'warning',
         format: winston_1.format.combine(winston_1.format.label({ label: 'Logged by passport-fast-config' }), winston_1.format.timestamp(), winston_1.format.prettyPrint()),
         transports: [new winston_1.default.transports.Console(),
-            new winston_1.default.transports.File({ filename: 'warning.log' })]
+            new winston_1.default.transports.File({ filename: '/psfcLogs/warning.log' })]
     }),
     debug: winston_1.default.createLogger({
         level: 'debug',
         format: winston_1.format.combine(winston_1.format.label({ label: 'Logged by passport-fast-config' }), winston_1.format.timestamp(), winston_1.format.prettyPrint(), winston_1.format.ms()),
         transports: [new winston_1.default.transports.Console(),
-            new winston_1.default.transports.File({ filename: 'debug.log' })]
+            new winston_1.default.transports.File({ filename: '/psfcLogs/debug.log' })]
     }),
     error: winston_1.default.createLogger({
         level: 'error',
         format: winston_1.format.combine(winston_1.format.label({ label: 'Logged by passport-fast-config' }), winston_1.format.timestamp(), winston_1.format.prettyPrint()),
         transports: [new winston_1.default.transports.Console(),
-            new winston_1.default.transports.File({ filename: 'error.log' })]
+            new winston_1.default.transports.File({ filename: '/psfcLogs/error.log' })]
     })
 }

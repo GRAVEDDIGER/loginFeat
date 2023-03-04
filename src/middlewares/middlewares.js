@@ -1,18 +1,27 @@
 
 const morgan = require('morgan')
 const Routes = require('../routes/routes')
-const UserSchema = require('../models/userSchema').UserSchema
+// const UserSchema = require('../models/userSchema').UserSchema
 const passport = require('passport')
 const flash = require('connect-flash')
 const passportConfigBuilder = require('../passconfig')
 const sesssionMiddleware = require('./session')
 const morganLog4JS = require('../helper/customMogan')
-// convirtiendo a models el param del modulo
+const knex = require('knex')({
+  client: 'sqlite3',
+  connection: { filename: './mydb.sqlite' }
+})// convirtiendo a models el param del modulo
 function middlewares(app, express) {
     app.use(sesssionMiddleware)
     app.use(express.json())
     app.use(express.urlencoded({ extended: false }))
-    const passportConfigObject = passportConfigBuilder(UserSchema, 'MONGO')
+    const passportConfigObject = passportConfigBuilder({db:knex,
+dbSchema:{
+      nombre: 'string',
+      apellido: 'string',
+      edad: 'number',
+      alias: 'string',
+      avatar: 'string'}}, 'SQL')
     .GoogleoAuth({
         clientID: '781852376959-1rqb531406erb9hplkvcrg7rmhdjp0hb.apps.googleusercontent.com',
         clientSecret: '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',
