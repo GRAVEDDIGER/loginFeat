@@ -4,7 +4,7 @@ const socket = require('socket.io')
 const messagePersistance = require('../models/mensajes').userModel
 const objectTranspiler = require('../helper/objectTranspiler')
 function initializeSockets(server, passportConfigObject, sessionMiddleware, objectLogger) {
-  const usersModel = passportConfigObject.users
+  const usersModel = passportConfigObject.localModel
 const wrap = middleware => (socket, next) => middleware(socket.request, {}, next)
 const socketSrv = socket(server)
 socketSrv.use(wrap(sessionMiddleware))

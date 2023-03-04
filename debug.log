@@ -1,0 +1,354 @@
+{
+  level: 'debug',
+  message: 'findByUserName',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:25:52.013Z'
+}
+{
+  level: 'debug',
+  message: 'returnFields',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:25:52.080Z'
+}
+{
+  level: 'debug',
+  message: 'loginObjectCreator',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:25:52.082Z'
+}
+{
+  level: 'debug',
+  message: 'createUser',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:25:52.195Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:25:52.429Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:25:52.668Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:25:52.764Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:25:59.098Z'
+}
+{
+  level: 'debug',
+  message: 'findByUserName',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:25:59.145Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:25:59.458Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:25:59.849Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:29:26.898Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:29:27.148Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:29:27.494Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:29:34.731Z'
+}
+{
+  level: 'debug',
+  message: 'findByUserName',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:29:34.780Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:29:35.068Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:29:35.349Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:29:35.469Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:29:35.566Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:29:35.660Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:33:24.030Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:33:24.178Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:35:31.069Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:35:31.515Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:35:31.829Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:35:40.576Z'
+}
+{
+  level: 'debug',
+  message: 'findByUserName',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:35:40.618Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:35:40.919Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:35:41.196Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:35:41.529Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:36:14.222Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:36:14.463Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:36:14.557Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:36:22.564Z'
+}
+{
+  level: 'debug',
+  message: 'findByUserName',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:36:22.619Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:36:22.917Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:36:23.179Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:36:23.265Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:36:23.368Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:36:23.458Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:38:16.695Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:38:16.882Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:38:16.970Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:38:26.236Z'
+}
+{
+  level: 'debug',
+  message: 'findByUserName',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:38:26.276Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:38:26.567Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:38:26.851Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:38:26.947Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:38:27.015Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:38:27.105Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:38:28.968Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:38:29.173Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:38:29.285Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:38:35.700Z'
+}
+{
+  level: 'debug',
+  message: 'findByUserName',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:38:35.740Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:38:35.841Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:38:36.005Z'
+}
+{
+  level: 'debug',
+  message: 'findById',
+  label: 'Logged by passport-fast-config',
+  timestamp: '2023-03-02T19:38:36.094Z'
+}

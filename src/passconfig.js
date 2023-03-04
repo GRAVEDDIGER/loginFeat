@@ -10,26 +10,26 @@ var __awaiter = (this && this.__awaiter) || function(thisArg, _arguments, P, gen
     })
 }
 Object.defineProperty(exports, '__esModule', { value: true })
-const mongoose_1 = require('mongoose')
-const selectorDAO_1 = require('./strategies/selectorDAO')
+// const mongoose_1 = require('mongoose')
+const selectorDAO_1 = require('./services/selectorDAO')
 const passport = require('passport')
 const bcrypt = require('bcrypt')
-const mongoose = require('mongoose')
+// const mongoose = require('mongoose')
 const GoogleStrategy = require('passport-google-oauth20').Strategy
 const { registerStrategy, loginStrategy } = require('./strategies/local')
 const oAuthModes = require('./strategies/oAuth2')
 // //////////////
 // SCHEMAS
-const googleAuthSchema = new mongoose_1.Schema({
-    username: {
-        type: String,
-        required: true,
-        unique: true
-    },
-    name: String,
-    lastName: String,
-    avatar: String
-})
+// const googleAuthSchema = new mongoose_1.Schema({
+//     username: {
+//         type: String,
+//         required: true,
+//         unique: true
+//     },
+//     name: String,
+//     lastName: String,
+//     avatar: String
+// })
 function passportConfigBuilder(schemaObject, dbType = 'MONGO') {
     // ////////////////
     // variables
@@ -40,11 +40,11 @@ function passportConfigBuilder(schemaObject, dbType = 'MONGO') {
     let incorrectPasswordMessage
     let userAlrreadyExistsMessage
     let crypt = true
-    let googleAuthModel
+    let hasVerificationFlag = false
+    let notVerifiedMessage
     // schemaObject.add(basicSchema)
     // ///////////////
     // MODELS
-    googleAuthModel = mongoose.model('usersGoogleAuthModel', googleAuthSchema)
     // /////////////
     // FUNCTIONS
     // ////////////
@@ -68,16 +68,24 @@ function passportConfigBuilder(schemaObject, dbType = 'MONGO') {
         crypt = value
         return this
     }
+    function hasVerification() {
+        hasVerificationFlag = true
+        return this
+    }
+    function setNotVerifiedMessage(message) {
+        notVerifiedMessage = message
+        return this
+    }
     // ///////BUILDERS///////////////////
     function buildLocalConfig() {
-        registerStrategy(DAOlocal, userAlrreadyExistsMessage, createHash, crypt)
+        registerStrategy(DAOlocal, userAlrreadyExistsMessage, createHash, crypt, hasVerificationFlag)
         passport.serializeUser((user, done) => {
             done(null, user._id)
         })
         passport.deserializeUser((id, done) => __awaiter(this, void 0, void 0, function* () {
             yield DAOlocal.findById(id, done) // users.findById(id, done)
         }))
-        loginStrategy(DAOlocal, userNotFoundMessage, incorrectPasswordMessage, isValid)
+        loginStrategy(DAOlocal, userNotFoundMessage, incorrectPasswordMessage, isValid, notVerifiedMessage)
         return this
     }
     function GoogleoAuth(authObject, loginOnly = false) {
@@ -97,6 +105,6 @@ function passportConfigBuilder(schemaObject, dbType = 'MONGO') {
         })
         return this
     }
-    return { buildLocalConfig, setCrypt, GoogleoAuth, setUserNotFoundMessage, setIncorrectPassword, setUserAlrreadyExistsMessage, users: DAOlocal.model, googleAuthModel }
+    return { buildLocalConfig, setCrypt, GoogleoAuth, setUserNotFoundMessage, setIncorrectPassword, setUserAlrreadyExistsMessage, hasVerification, setNotVerifiedMessage, localModel: DAOlocal.model, goaModel: DAOgoa.model }
 }
 module.exports = passportConfigBuilder

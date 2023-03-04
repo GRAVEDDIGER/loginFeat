@@ -1604,3 +1604,55 @@
 [32m[2023-02-24T15:44:53.947] [INFO] info - [39mListening on 8080
 [32m[2023-02-24T15:44:57.575] [INFO] info - [39mMongo connected
 [32m[2023-02-24T15:44:57.577] [INFO] info - [39mMongo Connected
+[32m[2023-03-02T16:24:58.399] [INFO] info - [39mListening on 8080
+[32m[2023-03-02T16:24:59.196] [INFO] info - [39mMongo connected
+[32m[2023-03-02T16:24:59.199] [INFO] info - [39mMongo Connected
+[32m[2023-03-02T16:25:16.442] [INFO] info - [39mListening on 8080
+[32m[2023-03-02T16:25:17.052] [INFO] info - [39mMongo connected
+[32m[2023-03-02T16:25:17.053] [INFO] info - [39mMongo Connected
+[33m[2023-03-02T16:25:30.550] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-03-02T16:25:30.588] [INFO] info - [39mGET / 302 56 - 27.017 ms
+[33m[2023-03-02T16:25:31.263] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-03-02T16:25:31.315] [INFO] info - [39mGET /favicon.ico 302 28 - 2.917 ms
+[33m[2023-03-02T16:25:35.420] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-03-02T16:25:35.467] [INFO] info - [39mGET /favicon.ico 302 28 - 2.410 ms
+[33m[2023-03-02T16:25:52.713] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-03-02T16:25:52.773] [INFO] info - [39mGET /favicon.ico 302 28 - 1.975 ms
+[32m[2023-03-02T16:25:59.869] [INFO] info - [39mWebSockets Connected
+[32m[2023-03-02T16:29:01.536] [INFO] info - [39mListening on 8080
+[32m[2023-03-02T16:29:02.318] [INFO] info - [39mMongo connected
+[32m[2023-03-02T16:29:02.319] [INFO] info - [39mMongo Connected
+[32m[2023-03-02T16:29:06.581] [INFO] info - [39mWebSockets Connected
+[33m[2023-03-02T16:29:27.196] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-03-02T16:29:27.258] [INFO] info - [39mGET /favicon.ico 302 28 - 11.471 ms
+[32m[2023-03-02T16:29:35.331] [INFO] info - [39mWebSockets Connected
+[33m[2023-03-02T16:29:35.397] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-03-02T16:29:35.447] [INFO] info - [39mGET /favicon.ico 302 28 - 2.427 ms
+[33m[2023-03-02T16:29:35.610] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-03-02T16:29:35.670] [INFO] info - [39mGET /1 302 28 - 2.216 ms
+[32m[2023-03-02T16:33:23.781] [INFO] info - [39mWebSockets Connected
+[33m[2023-03-02T16:33:24.081] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-03-02T16:33:24.137] [INFO] info - [39mGET /1 302 28 - 4.583 ms
+[33m[2023-03-02T16:35:31.558] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-03-02T16:35:31.607] [INFO] info - [39mGET /favicon.ico 302 28 - 2.413 ms
+[32m[2023-03-02T16:35:41.180] [INFO] info - [39mWebSockets Connected
+[33m[2023-03-02T16:35:41.478] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-03-02T16:35:41.526] [INFO] info - [39mGET /favicon.ico 302 28 - 2.050 ms
+[33m[2023-03-02T16:36:14.507] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-03-02T16:36:14.554] [INFO] info - [39mGET /favicon.ico 302 28 - 1.752 ms
+[32m[2023-03-02T16:36:23.163] [INFO] info - [39mWebSockets Connected
+[33m[2023-03-02T16:36:23.219] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-03-02T16:36:23.270] [INFO] info - [39mGET /favicon.ico 302 28 - 1.382 ms
+[33m[2023-03-02T16:36:23.412] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-03-02T16:36:23.466] [INFO] info - [39mGET /1 302 28 - 1.952 ms
+[33m[2023-03-02T16:38:16.923] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-03-02T16:38:16.974] [INFO] info - [39mGET /favicon.ico 302 28 - 2.592 ms
+[32m[2023-03-02T16:38:26.821] [INFO] info - [39mWebSockets Connected
+[33m[2023-03-02T16:38:26.898] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-03-02T16:38:26.943] [INFO] info - [39mGET /favicon.ico 302 28 - 1.602 ms
+[33m[2023-03-02T16:38:27.055] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-03-02T16:38:27.102] [INFO] info - [39mGET /1 302 28 - 2.464 ms
+[33m[2023-03-02T16:38:29.214] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-03-02T16:38:29.292] [INFO] info - [39mGET /favicon.ico 302 28 - 2.305 ms
+[33m[2023-03-02T16:38:36.046] [WARN] warning - [39mRoute not yet implemented
+[32m[2023-03-02T16:38:36.101] [INFO] info - [39mGET /favicon.ico 302 28 - 1.970 ms

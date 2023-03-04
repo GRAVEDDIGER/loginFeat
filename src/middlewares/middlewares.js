@@ -4,7 +4,7 @@ const Routes = require('../routes/routes')
 const UserSchema = require('../models/userSchema').UserSchema
 const passport = require('passport')
 const flash = require('connect-flash')
-const passportConfigBuilder = require('passport-fast-config')
+const passportConfigBuilder = require('../passconfig')
 const sesssionMiddleware = require('./session')
 const morganLog4JS = require('../helper/customMogan')
 // convirtiendo a models el param del modulo
